@@ -1,0 +1,10 @@
+//Bei der Überprüfung von Personalunterlagen stellt die Personalleiterin fest,
+//dass von den nachstehend aufgeführten Mitarbeitern eine Person einen besonderen Kündigungsschutz
+//genießt, weil sie zu einer bestimmten Arbeitnehmergruppe gehört.
+//Welche der folgenden Personen genießt einen besonderen Kündigungsschutz?
+??1 Thomas Runkel, 28 Jahre, fünfjährige Betriebszugehörigkeit, Vater von Zwillingen, zurzeit in Elternzeit
+??2 Frank Häuser, ehemaliges Betriebsratsmitglied, vor zwei Jahren aus dem Amt als Betriebsrat ausgeschieden
+??3 Teresa Breinig, 58 Jahre, Witwe, 23 Monate Betriebszugehörigkeit
+??4 Paul Schröder, 39 Jahre, von der Datentechnik AG bestellter Sicherheitsbeauftragter
+??5 Guido Söder, seit zehn Jahren Geschäftsführer der Datentechnik AG
+!!1

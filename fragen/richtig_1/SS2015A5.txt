@@ -1,0 +1,9 @@
+//Die Datentechnik AG will einen ihrer seit acht Jahren fest angestellten, vollzeitbeschäftigten Dozenten betriebsbedingt kündigen. 
+//Es gelten die Vorschriften des BGB.
+//Welche der folgenden Aussagen trifft auf eine rechtswirksame Kündigung zu?
+??1 Die Kündigungsfrist beträgt einen Monat zum Ende des jeweiligen Quartals.
+??2 Die Kündigung muss zur Wirksamkeit in Schriftform vorliegen.
+??3 Die Kündigung kann in elektronischer Form (E-Mail) übermittelt werden.
+??4 Der Betriebsrat hat bei einer ordentlichen Kündigung kein Widerspruchsrecht.
+??5 Die Datentechnik AG muss bei drohender Arbeitslosigkeit des Gekündigten bei der Bundesagentur für Arbeit Arbeitslosengeld beantragen.
+!!2

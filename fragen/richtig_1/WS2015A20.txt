@@ -1,0 +1,10 @@
+//Aus der Tageszeitung erfahren Sie von der Gründung eines neuen Mitbewerbers, der Otter GmbH.
+//Zu welchem der folgenden Zeitpunkte wurde die Otter GmbH rechtsfähig?
+//Tragen Sie die Ziffer vor dem zutreffenden Zeitpunkt in das Kästchen ein.
+//Mit...
+??1 Anmeldung beim Amtsgericht
+??2 Abschluss des ersten Rechtsgeschäfts
+??3 Einzahlung des Stammkapitals
+??4 Bestellung des Geschäftsführers
+??5 Eintragung in das Handelsregister
+!!5

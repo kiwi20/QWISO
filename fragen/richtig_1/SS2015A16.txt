@@ -1,0 +1,9 @@
+//Die Mitarbeiter der Datentechnik AG diskutieren über die private kapitalgestützte Altersvorsorge.
+//Welche zwei der folgenden wirtschaftlichen Entwicklungen gefährden eine private kapitalgestützte Altersvorsorge?
+??1 Hohe Inflation
+??2 Konjunkturaufschwung
+??3 Arbeitslosigkeit
+??4 Nachfrageüberhang
+??5 Moderate Tariflohnerhöhungen
+??6 Senkung der Beiträge für die gesetzliche Arbeitslosenversicherung
+!!1;3

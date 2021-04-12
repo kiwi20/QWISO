@@ -1,0 +1,8 @@
+//Einigen Mitarbeitern der Datentechnik AG wird vorgeworfen, beruflich nicht mehr flexibel zu sein.
+//Welche der folgenden Aussagen beschreibt die berufliche Flexibilität?
+??1 Die Möglichkeit, den Arbeitsplatz mit dem eigenen PKW zu erreichen
+??2 Die Fähigkeit, sich den wandelnden Anforderungen der Arbeitswelt anpassen zu können
+??3 Die Fähigkeit, ständig zur Verbesserung des Betriebsklimas beizutragen
+??4 Die Bereitschaft, immer für Überstunden zur Verfügung zu stehen
+??5 Die Fähigkeit, die Interessen der Arbeitgeber sowie die Interessen der Arbeitnehmer gleichermaßen zu vertreten
+!!2

@@ -1,0 +1,14 @@
+//In Deutschland werden mehrere wirtschaftspolitische Ziele verfolgt,
+//deren Erfüllungsgrad an Kennzahlen abgelesen werden kann.
+//Ordnen Sie die folgenden Kennzahlen den nachstehenden wirtschaftspolitischen Zielen zu.
+//Kennzahlen:
+//1 Reales Bruttoinlandsprodukt
+//2 Arbeitslosenquote
+//3 Lebenshaltungskostenindex
+//4 Außenhandelsüberschuss/-defizit
+//Wirtschaftspolitische Ziele:
+??a) Preisstabilität
+??b) Außenwirtschaftliches Gleichgewicht
+??c) Wirtschaftswachstum
+??d) Hoher Beschäftigungsgrad
+!!3;4;1;2

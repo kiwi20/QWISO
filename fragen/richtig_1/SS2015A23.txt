@@ -1,0 +1,10 @@
+//Im wirtschaftlichen Umfeld der Datentechnik AG verändern sich die Rahmenbedingungen durch Kooperation zwischen 
+//Unternehmen und Unternehmensübernahmen.
+//In welchen zwei der folgenden Fälle handelt es sich um eine horizontale Unternehmenskooperation?
+??1 Die Engelbert & Vogel GmbH kann ein bestimmtes Produkt aus Kapazitätsgründen nicht liefern und verweist bisherige Kunden an einen befreundeten Produzenten.
+??2 Die Käufer AG übernimmt sämtliche Geschäftsanteile eines anderen Produzenten, um etwaige Umsatzrückgänge in ihrem Kerngeschäft ausgleichen zu können.
+??3 Die Gebrüder Grimm KG gründet mit zwei Mitbewerbern einen Produktionsverbund, um durch höhere Stückzahlen die Produktionskosten senken zu können.
+??4 Die Meier GmbH erwirbt die Kapitalmehrheit an einem anderen Produzenten, um Einfluss auf dessen Produktpolitik nehmen zu können.
+??5 Die Lustig AG übernimmt vollständig ein Unternehmen aus einem Geschäftsfeld, in dem die Lustig AG bisher nicht vertreten war. 
+??6 Die Peters KG wird nun auch von der Singer GmbH beliefert.
+!!1;3

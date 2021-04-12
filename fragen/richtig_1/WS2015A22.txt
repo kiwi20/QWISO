@@ -1,0 +1,11 @@
+//Der Prokurist der Müller KG, Max Munter, unterzeichnet den Kaufvertrag über einen PC,
+//den die Datentechnik AG für die Müller KG liefern soll, mit "ppa. Munter".
+//Aufseiten der Datentechnik AG unterschreibt der Verkäufer, Tim Kreutzer, mit "i. A. Tim Kreutzer".
+//Zwischen welchen der folgenden Vertragspartner wurde der Kaufvertrag geschlossen?
+??1 Geschäftsführerin der Datentechnik AG, Fiona Gießling
+??2 ommanditist der Müller KG, Erich Müller
+??3 Prokurist der Müller KG, Max Munter
+??4 Verkäufer der Datentechnik AG, Tim Kreutzer
+??5 KMüller KG
+??6 Datentechnik AG
+!!5;6

@@ -1,0 +1,18 @@
+//Jessica Krebs möchte von Ihnen über die Jugend- und Auszubildendenvertretung informiert werden.
+//In der Datentechnik AG sind folgende Mitarbeiter beschäftigt:
+//35 Kaufmännische Mitarbeiter (alle volljährig)
+//85 Technische Mitarbeiter (3 minderjährig, 82 volljährig)
+//20 Auszubildende (6 minderjährig, 1 2 volljährig unter 25 Jahre, 2 volljährig über 25 Jahre)
+//__________________________________________________________________________________________
+//§ 60 Errichtung und Aufgabe
+//(1) In Betrieben mit in der Regel mindestens fünf Arbeitnehmern, die das 18. Lebensjahr noch nicht vollendet haben (jugendliche 
+//Arbeitnehmer) oder die zu ihrer Berufsausbildung beschäftigt sind und das 25. Lebensjahr noch nicht vollendet haben, werden Jugendund Auszubildendenvertretungen gewählt.
+//(2) Die Jugend- und Auszubildendenvertretung nimmt nach Maßgabe der folgenden
+//Vorschriften die besonderen Belange der in Absatz I genannten Arbeitnehmer wahr.
+//§ 61 Wahlberechtigung und Wählbarkeit
+//(1) Wahlberechtigt sind alle in § 60 Abs. 1 genannten Arbeitnehmer des Betriebs.
+//(2) Wählbar sind alle Arbeitnehmer des Betriebs, die das 25. Lebensjahr noch nicht vollendet haben; § 8 Abs. I Satz 3 findet Anwendung. 
+//Mitglieder des Betriebsrats können nicht zu Jugend- und Auszubildendenvertretern gewählt werden.
+//___________________________________________________________________________________________
+??Erklären Sie Frau Krebs anhand des abgebildeten Gesetzesauszuges, wie viele Personen bei der Wahl zur Jugend- und Auszubildendenvertretung wahlberechtigt sind.
+!!21

@@ -1,0 +1,10 @@
+//Die Mitarbeiterin Karola Klein, seit 16 Jahren im Betrieb, hat sich für eine Stelle in der Verkaufsabteilung beworben. 
+//Um ihre Chancen einschätzen zu können, möchte sie Einsicht in ihre Personalakte nehmen.
+//Welche der folgenden Aussagen zur Einsichtnahme in die eigene Personalakte ist zutreffend?
+//Frau Klein...
+??1 hat das Recht auf uneingeschränkte Einsichtnahme.
+??2 hat grundsätzlich keinen Anspruch auf Einsichtnahme.
+??3 hat nur dann einen Anspruch auf Einsichtnahme, wenn sie ein begründetes Interesse nachweist.
+??4 darf einmal pro Jahr nur unter Aufsicht eines Vertreters des Betriebsrates Einsicht nehmen.
+??5 darf nur eingeschränkt ihre Personalakte einsehen, um ihre Stammdaten (Adresse, Steuerklasse, Steuerfreibeträge) auf Aktualität zu prüfen. Alle weiteren Aufzeichnungen dürfen vom Arbeitgeber aus datenrechtlichen Gründen nicht zugänglich gemacht werden.
+!!1

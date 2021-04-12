@@ -1,0 +1,9 @@
+//In Deutschland gibt es neben privaten Betrieben auch öffentlich-rechtliche Betriebe.
+//Welches der folgenden Ziele trifft auf einen öffentlich-rechtlichen Betrieb zu?
+//Ein öffentlich-rechtlicher Betrieb verfolgt primär das Ziel...
+??1 der Gewinnmaximierung.
+??2 der Kostenminimierung.
+??3 der bestmöglichen Versorgung der Bevölkerung mit bestimmten Dienstleistungen oder Sachgütern (z. B. mit Wasser).
+??4 der Umsatzsteigerung.
+??5 der Dividendenausschüttung.
+!!3

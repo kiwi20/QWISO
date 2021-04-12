@@ -1,0 +1,13 @@
+//Die untenstehenden Regelungen sind gesetzlich verankert.
+//In welchen der folgenden Gesetze werden die beiden Regelungen genannt?
+//Gesetze:
+//1 Betriebsverfassungsgesetz
+//2 Handelsgesetzbuch
+//3 Bundesurlaubsgesetz
+//4 Berufsbildungsgesetz
+//5 Tarifvertragsgesetz
+//6 Jugendarbeitsschutzgesetz
+//Regelungen:
+??a) Arbeitgeber und Betriebsrat arbeiten unter Beachtung der geltenden Tarifverträge vertrauensvoll zusammen.
+??b) Jugendlichen müssen im Voraus feststehende Ruhepausen von angemessener Dauer gewährt werden.
+!!1;6

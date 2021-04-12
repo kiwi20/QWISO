@@ -1,0 +1,9 @@
+//Die Auszubildenden der Datentechnik AG diskutieren mit ihrem Ausbilder über das Thema Rechtsgeschäfte.
+//Welche zwei der folgenden Aussagen sind in diesem Zusammenhang richtig?
+??1 Ein Kaufvertrag ist ein zweiseitiges Rechtsgeschäft, das einseitig verpflichtend ist.
+??2 Eine Kündigung ist ein einseitiges und nicht empfangsbedürftiges Rechtsgeschäft.
+??3 Eine Willenserklärung kann auch stillschweigend durch entsprechend schlüssiges Handeln abgegeben werden,
+??4 Kaufverträge müssen immer schriftlich abgeschlossen werden
+??5 Ein fünfjähriger Junge ist nicht rechtsfähig.
+??6 Nichtige Rechtsgeschäfte sind von Anfang an ungültig.
+!!3;6

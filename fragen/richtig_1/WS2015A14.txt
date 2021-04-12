@@ -1,0 +1,8 @@
+//In der Datentechnik AG besteht ein Betriebsrat.
+//Welche der folgenden Maßnahmen lässt sich ohne Beteiligung des Betriebsrates in der Datentechnik AG realisieren?
+??1 Stilllegung einiger Produktionszweige und entsprechende Reduzierung der Belegschaft
+??2 Bessere Auslastung der Maschinen durch flexiblere Arbeitsregelungen
+??3 Betriebsbedingte Kündigungen
+??4 Einführung von Schichtarbeit
+??5 Minderung der Provisionssätze für Handelsvertreter
+!!5

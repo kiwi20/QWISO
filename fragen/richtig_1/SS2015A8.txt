@@ -1,0 +1,9 @@
+//Die Datentechnik AG ist Mitglied einer Arbeitgeberorganisation.
+//Welche der folgenden Aussagen trifft auf eine Arbeitgeberorganisation zu?
+//Eine Arbeitgeberorganisation...
+??1 muss Kündigungen in Mitgliedsunternehmen zustimmen.
+??2 kann übertarifliche Lohnvereinbarungen untersagen. 
+??3 wird von der öffentlichen Hand unterhatten.
+??4 erlässt gesetzliche Vorschriften zur Unternehmensführung.
+??5 betreibt Lobbyarbeit zur Durchsetzung der Interessen ihrer Mitglieder.
+!!5

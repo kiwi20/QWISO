@@ -1,0 +1,14 @@
+//In der Datentechnik AG wird das wirtschaftliche Umfeld beobachtet.
+//Ordnen Sie die folgenden Unternehmensverbindungen den nachstehenden Sachverhalten zu.
+//Unternehmensverbindungen:
+//1 Fusion
+//2 Kartell
+//3 Konzern
+//4 Arbeitsgemeinschaft
+//Sachverhalte:
+??a) Mehrere Kunden der Datentechnik AG führen gemeinsam einen Großauftrag aus.
+??b) Die Dachs AG, ein Lieferer der Datentechnik, hat die Aktienmehrheit an der Trierer AG übernommen.
+??c) Die Datentechnik AG vereinbart mit Wettbewerbern einheitliche Verkaufskonditionen.
+??d) Zwei Kunden Datentechnik AG, die Kühne GmbH und die Tischler KG, schließen sich zur Kühne GmbH & Co. KG zusammen.
+??e) Die Dachs AG gründet in Nordrhein-Westfalen mehrere Tochtergesellschaften.
+!!4;3;2;1;3
