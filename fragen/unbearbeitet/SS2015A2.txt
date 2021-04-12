@@ -1,0 +1,8 @@
+//Die Datentechnik AG führt mit einigen Bewerbern Einstellungsgespräche.
+//Welche zwei der folgenden Fragen darf sie dabei nicht stellen bzw. müssen von den Bewerbern nicht wahrheitsgemäß beantwortet werden?
+??1 Wie lautet ihre Gehaltsvorstellung?
+??2 Sind Sie Mitglied einer Gewerkschaft? Sind Sie verheiratet?
+??3 Welcher Religionsgemeinschaft gehören Sie an? 
+??4 Welche Ausbildungsabschlüsse besitzen Sie? 
+??5 Sind Sie bereit, Schichtarbeit zu leisten?
+!!2;3

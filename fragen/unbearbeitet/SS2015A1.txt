@@ -1,0 +1,9 @@
+//Die Datentechnik AG hat zusätzliche Stellen geschaffen und will diese mit neuen Mitarbeitern besetzen.
+//Welche der folgenden Aussagen trifft im Hinblick auf die geplanten Neueinstellungen zu?
+//Die Datentechnik AG…
+??1 darf eine Stelle erst dann extern ausschreiben, nachdem der Betriebsrat zugestimmt hat.
+??2 darf als Mitglied eines Arbeitgeberverbands keinen Arbeitsvertrag abschließen, dessen Bedingungen schlechter sind als die des aktuellen Tarifvertrags.
+??3 muss jede neue Stelle zunächst der Agentur für Arbeit melden.
+??4 darf laut ISO 9003 nur Bewerbungen berücksichtigen, die einen handgeschriebenen Lebenslauf enthalten.
+??5 ist verpflichtet, die Angaben eines Bewerbers anhand der Originalunterlagen (z. B. Zeugnisse) zu überprüfen.
+!!2

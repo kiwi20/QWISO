@@ -1,0 +1,8 @@
+//Als Arbeitnehmer müssen Sie sich bei einer Krankenkasse versichern.
+//Welche der folgenden Aussagen trifft auf die gesetzliche Krankenversicherung zu?
+??1 Bietet vom Einkommen unabhängige Versicherungsprämien
+??2 Fordert vom Geschlecht abhängige Beiträge
+??3 Bietet eine Familienversicherung, bei der nicht berufstätige Ehepartner beitragsfrei mitversichert sind 
+??4 Fordert vom Eintrittsalter der versicherten Person abhängige Beiträge
+??5 Fordert je nach Gesundheitszustand vom Versicherten Risikozuschläge
+!!3

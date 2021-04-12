@@ -1,0 +1,8 @@
+//Sie verschaffen sich einen Überblick zum Thema private Zusatzversicherungen.
+//Welche der folgenden Aussagen ist in diesem Zusammenhang zutreffend?
+??1 Die Kapitallebensversicherung versorgt ausschließlich die Hinterbliebenen im Todesfall.
+??2 Die private Unfallversicherung sichert den Versicherten allein gegen Folgen von Unfällen auf dem Weg zur Arbeit ab.
+??3 Die private Krankenversicherung kann Risikozuschläge für bestimmte Erkrankungen festsetzen.
+??4 Die private Rechtsschutzversicherung hilft ausschließlich bei der Abwehr fremder Ansprüche.
+??5 Die Privathaftpflichtversicherung deckt keine Schäden ab, die der Versicherte einem Dritten zugefügt hat.
+!!3

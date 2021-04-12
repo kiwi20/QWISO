@@ -1,0 +1,9 @@
+//Während einer Schulung, die Sie für die Datentechnik AG durchführen,
+//stolpern Sie über ein Kabel und verletzten sich am Fuß.
+//Welcher der folgenden Träger wird für die Kosten der ärztlichen Behandlung aufkommen?
+??1 Krankenkasse
+??2 IHK
+??3 Arbeitsagentur 
+??4 Berufsgenossenschaft
+??5 Haftpflichtversicherung
+!!4

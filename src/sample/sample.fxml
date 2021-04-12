@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.LernfortschrittController">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <Pane fx:id="uebersicht_fenster" onMouseEntered="#refresh" prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#beddfa00" height="150.0" layoutX="226.0" layoutY="85.0" stroke="BLACK" strokeType="INSIDE" width="147.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="150.0" layoutX="38.0" layoutY="85.0" stroke="BLACK" strokeType="INSIDE" width="147.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="150.0" layoutX="415.0" layoutY="85.0" stroke="BLACK" strokeType="INSIDE" width="147.0" />
+            <Rectangle fx:id="unbearbeitet_balken" arcHeight="5.0" arcWidth="5.0" fill="#b6b8ba" height="50.0" layoutX="38.0" layoutY="185.0" stroke="BLACK" strokeType="INSIDE" width="147.0" />
+            <Rectangle fx:id="fertig_balken" arcHeight="5.0" arcWidth="5.0" fill="#7dfaa0" height="50.0" layoutX="415.0" layoutY="185.0" stroke="BLACK" strokeType="INSIDE" width="147.0" />
+            <Rectangle fx:id="bearbeitet_balken" arcHeight="5.0" arcWidth="5.0" fill="#fad88c" height="50.0" layoutX="226.0" layoutY="185.0" stroke="BLACK" strokeType="INSIDE" width="147.0" />
+            <Label layoutX="77.0" layoutY="59.0" text="unbearbeitet" />
+            <Label layoutX="261.0" layoutY="59.0" text="in Bearbeitung" />
+            <Label layoutX="474.0" layoutY="59.0" text="fertig" />
+            <Label fx:id="unbearbeitet_anzahl" layoutX="82.0" layoutY="248.0" text="000 Fragen" />
+            <Label fx:id="bearbeitet_anzahl" layoutX="271.0" layoutY="248.0" text="000 Fragen" />
+            <Label fx:id="fertig_anzahl" layoutX="459.0" layoutY="248.0" text="000 Fragen" />
+            <Label layoutX="237.0" layoutY="14.0" text="QWISO - Lernfortschritt" />
+            <Button fx:id="start_button" layoutX="280.0" layoutY="316.0" mnemonicParsing="false" onMouseClicked="#lernen_starten" text="Start" />
+         </children>
+      </Pane>
+   </children>
+</GridPane>

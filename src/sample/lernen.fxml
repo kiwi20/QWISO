@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.LernenController">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <Pane onMouseEntered="#stelleAktuelleAufgabeDar" prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <Button fx:id="home_button" layoutX="537.0" layoutY="14.0" mnemonicParsing="false" onMouseClicked="#home_oeffnen" text="Home" />
+            <TextArea fx:id="aufgabe_text" editable="false" layoutX="24.0" layoutY="58.0" prefHeight="252.0" prefWidth="552.0" />
+            <Label layoutX="35.0" layoutY="31.0" text="Aufgabe" />
+            <Label layoutX="36.0" layoutY="332.0" text="Antwort" />
+            <TextField fx:id="antwort_text" layoutX="100.0" layoutY="328.0" prefHeight="25.0" prefWidth="107.0" />
+            <TextField fx:id="loesung_text" editable="false" layoutX="332.0" layoutY="328.0" prefHeight="25.0" prefWidth="107.0" />
+            <Label layoutX="271.0" layoutY="332.0" text="Lösung" />
+            <Button fx:id="ergebnis_button" layoutX="486.0" layoutY="328.0" mnemonicParsing="false" onMouseClicked="#ermittleErgebnis" text="Prüfen" />
+            <Rectangle fx:id="ergebnis_signal" arcHeight="5.0" arcWidth="5.0" fill="#bfbfbf" height="25.0" layoutX="215.0" layoutY="328.0" stroke="BLACK" strokeType="INSIDE" width="25.0" />
+            <Button fx:id="naechste_button" layoutX="485.0" layoutY="361.0" mnemonicParsing="false" onMouseClicked="#naechsteAufgabe" text="Fortfahren" />
+         </children></Pane>
+   </children>
+</GridPane>

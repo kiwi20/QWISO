@@ -1,0 +1,9 @@
+//Sie sollen für Marta Meier einen PC-Arbeitsplatz einrichten.
+//In welchen zwei der folgenden Unterlagen finden Sie Vorschriften zur Einrichtung eines PC-Arbeitsplatzes?
+??1 Ausbildungsverordnung
+??2 Arbeitszeitverordnung
+??3 Bildschirmarbeitsplatzverordnung
+??4 Arbeitsstättenverordnung
+??5 Berufsbildungsgesetz
+??6 Mutterschutzgesetz
+!!3;4

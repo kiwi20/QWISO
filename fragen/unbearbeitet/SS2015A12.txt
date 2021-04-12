@@ -1,0 +1,21 @@
+//Da die Dozenten der Datentechnik AG häufig in anderen Unternehmen schulen, 
+//müssen sie die Bedeutung folgender Zeichen kennen.
+//Ordnen Sie den abgebildeten Zeichen die nachstehenden Bedeutungen zu.
+//Bedeutungen:
+//1 Tür darf nicht offen stehen
+//2 Verwendung von Infrarot-Fernbedienungen verboten
+//3 Mitführen von magnetischen und elektronischen Datenträgern verboten
+//4 Nicht schalten
+//5 Automatischer Anlauf möglich
+//6 Öffnen Netzstecker ziehen
+//7 Gerät nach Gebrauch vom Netz trennen 
+//8 Mobilfunk verboten 
+//9 Gefahren durch Batterien
+//10 Starke Magnetfelder
+//11 Säurestand der Batterien prüfen
+//Zeichen:
+??a) https://www.dropbox.com/s/6xi7u5eqeh1nrsl/schildA.png?dl=0
+??b) https://www.dropbox.com/s/n8fc2iwq47hyrpm/schildB.png?dl=0
+??c) https://www.dropbox.com/s/ahbh0m2v70dhsbi/schildC.png?dl=0
+??d) https://www.dropbox.com/s/hxwddhiwd9tjshw/schildD.png?dl=0
+!!6;4;8;9

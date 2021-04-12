@@ -1,0 +1,17 @@
+//In der Datentechnik AG wird über Leitungssysteme diskutiert.
+//Für eine Tischvorlage sind die vier unten stehenden Organigramme erstellt worden.
+//Ordnen Sie den Organigrammen die jeweils entsprechende Bezeichnung zu.
+//Bezeichnungen:
+//1 Matrixorganisation
+//2 Stabsorganisation
+//3 Stab-Liniensystem
+//4 Gitterorganisation
+//5 Einliniensystem
+//6 Mehrliniensystem
+//7 Kennliniensystem
+//Organigramme:
+??a) https://www.dropbox.com/s/1keiwtd2di2j1i9/WS2015A21_1.PNG?dl=0
+??b) https://www.dropbox.com/s/1keiwtd2di2j1i9/WS2015A21_2.PNG?dl=0
+??c) https://www.dropbox.com/s/1keiwtd2di2j1i9/WS2015A21_3.PNG?dl=0
+??d) https://www.dropbox.com/s/1keiwtd2di2j1i9/WS2015A21_4.PNG?dl=0
+!!3;5;6;1

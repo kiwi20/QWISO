@@ -1,0 +1,10 @@
+//Die Datentechnik AG ist tarifgebunden und schließt Arbeitsverträge auf der Grundlage des aktuellen Tarifvertrags.
+//Welche zwei der folgenden Aussagen treffen auf einen Tarifvertrag zu?
+//Ein Tarifvertrag...
+??1 kommt durch freie Vereinbarung der Tarifpartner zustande.
+??2 bedarf der Genehmigung eines staatlich bestellten Schlichters.
+??3 gibt Höchstgrenzen für Löhne und Gehälter an.
+??4 darf nur auf gewerkschaftlich organisierte Arbeitnehmer angewendet werden.
+??5 darf eine Laufzeit von höchstens drei Jahren haben.
+??6 kann durch Betriebsvereinbarungen ergänzt werden.
+!!1;6
