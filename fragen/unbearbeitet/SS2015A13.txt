@@ -1,9 +1,0 @@
-//Die Aktionäre der Datentechnik AG sind Privatpersonen, die Dividenden erwarten.
-//Welche zwei der folgenden Angaben treffen auf die Datentechnik AG zu?
-??1 Unternehmen des sekundären Sektors
-??2 Unternehmen des tertiären Sektors
-??3 Erwerbswirtschaftliches Unternehmen
-??4 Gemeinwirtschaftliches Unternehmen
-??5 Personengesellschaft
-??6 Gesellschaft bürgerlichen Rechts
-!!2;3

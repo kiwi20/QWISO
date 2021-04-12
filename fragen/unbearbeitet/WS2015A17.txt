@@ -1,9 +1,0 @@
-//Für ein Produkt, wie es die anbietet, wurde für den Gesamtmarkt folgende 
-//Angebots- und Nachfragesituation (modellhaft vereinfacht) ermittelt.
-//Angebots- und Nachfragekurve:
-//https://www.dropbox.com/s/rqbb5ov5gjbotqd/WS2015A17.PNG?dl=0
-//Ermitteln Sie
-??a) den Preis je Stück, zu dem ein höchstmöglicher Umsatz erzielt werden kann.
-??b) den Umsatz, der maximal erzielt werden kann.
-??c) den Angebotsüberhang bei einem Preis von 70,00 EUR je Stück.
-!!50;25000;400

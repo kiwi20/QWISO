@@ -1,8 +1,0 @@
-//Sie informieren sich über die gesetzliche Krankenversicherung (GKV).
-//Welche der folgenden Aussagen trifft auf die gesetzliche Krankenversicherung zu?
-??1 Die Versicherungspflichtgrenze gibt an, ab welchem Jahresbruttoentgelt ein Arbeitnehmer in der GKV versichert sein muss.
-??2 Ein Wechsel der Krankenkasse ist nur mit Zustimmung des Arbeitgebers möglich.
-??3 Der Beitragssatz wird vom Bundesministerium für Gesundheit festgelegt.
-??4 Der Beitrag wird vom Nettolohn berechnet.
-??5 Auf den Teil des Bruttolohns, der die Beitragsbemessungsgrenze übersteigt, wird kein Beitrag erhoben.
-!!5

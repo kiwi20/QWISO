@@ -1,8 +1,0 @@
-//In welchem der folgenden Fälle würde die Datentechnik AG nach dem Minimalprinzip handeln?
-//Die Datentechnik AG...
-??1 bildet hinsichtlich eventueller Gewährleistungsansprüche aus diesem Geschäft eine Rückstellung, um das finanzielle Risiko zu minimieren.
-??2 gewährt dem Auftraggeber statt üblicherweise 4 % nur 2 % Rabatt.
-??3 holt mehrere Angebote von Honorarkräften ein und beauftragt den günstigsten Anbieter. 
-??4 überzieht die vorkalkulierten Kosten nur minimal.
-??5 beschäftigt verschiedene Dozenten, um Abhängigkeiten zu minimieren.
-!!3
