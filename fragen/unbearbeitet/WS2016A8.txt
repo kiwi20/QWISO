@@ -1,0 +1,10 @@
+//Eine Mitarbeiterin der Datentechnik AG ist arbeitsunfähig, weil sie am Vortag
+//auf dem direkten Weg zur Arbeit bei einem Verkehrsunfall schwer verletzt wurde.
+//Welche der folgenden Aussagen ist in diesem Zusammenhang zutreffend?
+//Die DATENTECHNIK AG...
+??1 muss den Unfall der Krankenversicherung der Mitarbeiterin melden. 
+??2 darf die Gehaltszahlung ab dem ersten Krankheitstag einstellen.
+??3 darf den Urlaubsanspruch der Mitarbeiterin kürzen.
+??4 muss den Unfall der Gewerbeaufsichtsbehörde melden.
+??5 muss den Unfall der Berufsgenossenschaft melden.
+!!5

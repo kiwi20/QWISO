@@ -1,0 +1,8 @@
+//Die Datentechnik AG muss eine Fachkraft für Arbeitssicherheit stellen.
+//Nach welcher der folgenden Rechtsgrundlagen ist die Datentechnik AG dazu verpflichtet?
+??1 Arbeitsplatzschutzgesetz
+??2 Arbeitssicherheitsgesetz
+??3 GmbH-Gesetz
+??4 Unfallverhütungsvorschriften
+??5 Betriebsverfassungsgesetz
+!!2

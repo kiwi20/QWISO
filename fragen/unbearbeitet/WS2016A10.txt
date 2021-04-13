@@ -1,0 +1,8 @@
+//Die Solidarität ist ein gesellschaftspolitisches Prinzip, das in der Bundesrepublik Deutschland angewendet wird.
+//Welcher der folgenden Sachverhalte entspricht dem Prinzip der Solidarität?
+??1 Eine Berufsfachschülerin ist beitragsfrei bei ihren Eltern in der Kranken- und Pflegeversicherung mitversichert.
+??2 Die Versicherungspflichtgrenze für die gesetzliche Krankenversicherung wird gesenkt
+??3 Die Steuern auf private Renten werden gesenkt.
+??4 Die Erbschaftsteuer wird gesenkt.
+??5 Der Staat gestattet Bürgern, die über mehr als das doppelte des durchschnittlichen Haushaltseinkommens verfügen, einen Teil des Einkomme steuerfrei im Ausland zu hinterlegen.
+!!1

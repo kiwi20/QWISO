@@ -1,0 +1,10 @@
+//Die Geschäftsleitung der Datentechnik AG arbeitet eng mit dem Betriebsrat zusammen.
+//In welchen zwei der folgenden Angelegenheiten hat der Betriebsrat laut
+//Betriebsverfassungsgesetz ein Mitbestimmungsrecht?
+??1 Einführung eines Personalbeurteilungssystems
+??2 Planung des Personalbedarfs
+??3 Festlegung von Beginn und Ende der täglichen Arbeitszeit
+??4 Errichtung einer neuen Lagerhalle
+??5 Gründung einer Filiale
+??6 Umwandlung der Rechtsform
+!!1;3

@@ -1,0 +1,10 @@
+//Sie erfahren von der Gründung der Steiner GmbH, einem neuen Mitbewerber.
+//Mit welchem der folgenden Ereignisse wird eine GmbH rechtsfähig?
+//Tragen Sie die Ziffer vor dem zutreffenden Ereignis in das Kästchen ein.
+//Mit...
+??1 Eintragung in das Handelsregister
+??2 Anmeldung beim Amtsgericht
+??3 Abschluss des ersten Rechtsgeschäfts
+??4 Einzahlung des Stammkapitals
+??5 Bestellung des Geschäftsführers
+!!1

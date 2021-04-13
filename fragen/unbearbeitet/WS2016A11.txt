@@ -1,0 +1,9 @@
+//Die Mitarbeiter der Datentechnik AG diskutieren in der Mittagspause über die
+//unterschiedlichen Möglichkeiten einer privaten Altersvorsorge.
+//Welche der folgenden wirtschaftlichen Entwicklungen gefährdet eine private Altersvorsorge?
+??1 Hohe Inflation
+??2 Konjunkturaufschwung
+??3 Nachfrageüberhang
+??4 Moderate Lohnforderungen
+??5 Senkung der Beiträge für die gesetzliche Arbeitslosenversicherung
+!!1

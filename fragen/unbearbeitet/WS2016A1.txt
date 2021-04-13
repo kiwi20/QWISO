@@ -1,0 +1,11 @@
+//Zur Datentechnik AG liegen folgende Daten vor:
+//IT-Dienstleister 58 % Marktanteil in der Region
+//54 Mitarbeiter
+//510.000 EUR Gewinn im Jahr 2015
+//Welche der folgenden Angaben trifft auf die Datentechnik AG zu?
+??1 Großunternehmen
+??2 Marktführer
+??3 Monopolist
+??4 Unternehmen des primären Sektors
+??5 Versorgungsunternehmen
+!!2

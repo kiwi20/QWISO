@@ -1,0 +1,9 @@
+//Die Datentechnik AG ist ein erwerbswirtschaftliches Unternehmen.
+//Welche zwei der folgenden Aussagen treffen auf ein erwerbswirtschaftliches Unternehmen zu?
+??1 Arbeitet zur Deckung des Bedarfs an Gütern
+??2 Strebt einen Gewinn an
+??3 Arbeitet auf eigene Rechnung und Verantwortung
+??4 Wirtschaftet nach einem öffentlichen Wirtschaftsplan mit dem Ziel der Kostendeckung
+??5 Muss jeden Kunden zu seinen allgemeinen Bedingungen und Preisen beliefern
+??6 Wird in seinen Entscheidungen nicht von Wettbewerbern eingeschränkt
+!!2;3

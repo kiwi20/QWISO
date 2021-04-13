@@ -1,0 +1,9 @@
+//Die Arbeitnehmer der Datentechnik AG wollen sich weiterbilden.
+//Welche der folgenden Aussagen zur Weiterbildung ist zutreffend?
+//Eine Weiterbildung...
+??1 wird n bis zum 55. Lebensjahr staatlich gefördert, da bei älteren Arbeitnehmern eine Weiterbildung unrentabel ist.
+??2 erfolgt zur Vertiefung und Erweiterung von Kenntnissen und Fertigkeiten.
+??3 ist für Arbeitnehmer grundsätzlich kostenfrei, weil entweder das Unternehmen oder der Staat aus einem Bildungsfonds den Lohnausfall und die Weiterbildungskosten erstatten.
+??4 kann nur außerbetrieblich in Einrichtungen zertifizierter Bildungsträger erfolgen.
+??5 muss immer als Aufstiegsfortbildung mit einer Abschlussprüfung vor der Industrie- und Handelskammer angelegt sein.
+!!2

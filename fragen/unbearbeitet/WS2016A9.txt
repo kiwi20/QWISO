@@ -1,0 +1,10 @@
+//Nach der letzten Gehaltserhöhung übersteigt das Bruttogehalt von Marian Meier
+//die Beitragsbemessungsgrenze für die gesetzliche Rentenversicherung.
+//Welche der folgenden Konsequenzen ergibt sich aus der Gehaltserhöhung für Herrn Meier?
+//Herr Meier...
+??1 ist nicht mehr versicherungspflichtig.
+??2 muss sich nun privat versichern.
+??3 erhält für die Sozialversicherung keinen Arbeitgeberanteil mehr.
+??4 muss nun für einen Teil ihres Gehalts keinen Rentenversicherungsbeitrag mehr leisten. 
+??5 kann die Beiträge an die Rentenversicherung gegen Selbstbehalt reduzieren.
+!!4

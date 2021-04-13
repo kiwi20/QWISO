@@ -1,0 +1,10 @@
+//Das Arbeitsverhältnis einer neuen Mitarbeiterin mit der Datentechnik AG
+//ist in einem schriftlichen Arbeitsvertrag geregelt.
+//Bei welchem der folgenden Bestandteile des Arbeitsvertrags
+//ist der Arbeitgeber an kollektives Arbeitsrecht gebunden?
+??1 Das monatliche Bruttogehalt beträgt 2.000,00 EUR.
+??2 Die Angestellte arbeitet als Sachbearbeiterin im Kundenservice.
+??3 Das Arbeitsverhältnis beginnt am 1. Dezember 2016.
+??4 Die reguläre wöchentliche Arbeitszeit beträgt gemäß Betriebsvereinbarung 38,5 Stunden. 
+??5 Die Datentechnik K AG gewährt einen monatlichen Fahrtkostenzuschuss von 100,00 EUR.
+!!4

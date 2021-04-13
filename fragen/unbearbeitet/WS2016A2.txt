@@ -1,0 +1,9 @@
+//In der Datentechnik AG muss das Allgemeine Gleichbehandlungsgesetz (AGG) beachtet werden.
+//In welchem der folgenden Fälle erfolgt eine Diskriminierung im Sinne des AGG?
+//Die Datentechnik AG...
+??1 führt Englisch als Unternehmenssprache ein.
+??2 richtet einen Aufzug in die erste Etage des Bürogebäudes ein, der nur von körperlich behinderten Mitarbeitern benutzt werden darf. Die übrigen Mitarbeiter müssen die Treppe benutzen.
+??3 will einen guten Personalmix erreichen und fordert daher in Stellenausschreibungen von den Bewerbern bestimmte Merkmale wie Geschlecht oder Alter ein.
+??4 bietet älteren Mitarbeitern ab dem 55. Lebensjahr Altersteilzeit-\/erträge an.
+??5 will den Anteil von Frauen in Führungspositionen erhöhen und ermutigt in Stellenanzeigen besonders Frauen, sich auf die entsprechenden Stellen zu bewerben.
+!!3

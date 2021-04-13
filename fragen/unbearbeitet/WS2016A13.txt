@@ -1,0 +1,10 @@
+//In einem Betrieb gibt es diverse Kenngrößen zur Unternehmensanalyse.
+//Eine Kenngröße ist das "Benchmarking" - eine Methode, mit der man die
+//Entwicklung des Betriebes mit anderen Unternehmen vergleichen kann.
+//Welche der folgenden drei Kenngrößen bilden das "Benchmarking"?
+??1 Beschaffung, Produktion und Absatz
+??2 Wirtschaftlichkeit, Krankenstand und Mitarbeiterzahlen
+??3 Ertrag, Aufwand und Wirtschaftlichkeit
+??4 Umsatz, durchschnittlicher Kassenbon und Rentabilität
+??5 Produktivität, Wirtschaftlichkeit und Rentabilität
+!!5

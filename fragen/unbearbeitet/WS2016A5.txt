@@ -1,0 +1,9 @@
+//Viele Mitarbeiter der Datentechnik AG sind Mitglied einer Gewerkschaft.
+//Welche der folgenden Aussagen trifft auf Gewerkschaften zu?
+//Die Gewerkschaften...
+??1 sind dem Bundesministerium für Arbeit und Soziales unterstellt.
+??2 stellen für die Betriebsräte in Mitgliedsunternehmen eigenes Personal ab.
+??3 besitzen das Recht, Arbeitsbedingungen in einem Tarifvertrag zu regeln.
+??4 setzen sich für eine Liberalisierung des Arbeitsrechts ein.
+??5 dürfen nur dann Arbeitskampfmaßnahmen durchführen, wenn sie den zu erwartenden Lohnausfall und Gewinnverlust aus ihren Streikfonds (Streikkassen) ausgleichen können.
+!!3

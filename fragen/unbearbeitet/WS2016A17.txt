@@ -1,0 +1,8 @@
+//Die Steiner GmbH will ein Service Standort in der Rechtsform einer GmbH gründen.
+//Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+??1 Das Stammkapital muss mindestens 50.000 EUR betragen.
+??2 Die Gesellschaft muss von mindestens zwei Personen gegründet werden.
+??3 Die Firma kann „Gesellschaft für IT-Service mbH" lauten.
+??4 Die Geschäftsführung der GmbH obliegt dem Vorstand.
+??5 Die neu gegründete GmbH ist eine natürliche Person des privaten Rechts.
+!!3

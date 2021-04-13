@@ -1,0 +1,8 @@
+//Arbeitnehmer treffen Maßnahmen zur persönlichen Existenzsicherung.
+//Welche der folgenden Maßnahmen ist zur persönlichen Existenzsicherung geeignet?
+??1 Kauf eines Sportwagens auf Kredit zur eigenen Nutzung
+??2 Abschluss eines Ratenkaufvertrags aufgrund fehlender Liquidität
+??3 Abschluss einer Versicherung für den Fall der Berufsunfähigkeit
+??4 Abschluss einer Risikolebensversicherung zur Absicherung von Krediten
+??5 Abschluss einer privaten Zusatzkrankenversicherung
+!!3

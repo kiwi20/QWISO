@@ -1,0 +1,15 @@
+//In der Datentechnik AG wird die Zusammenarbeit von Unternehmen
+//in ihrem wirtschaftlichen Umfeld beobachtet.
+//In welchen der unten stehenden Sachverhalte handelt es sich um
+//1 eine Fusion?
+//2 ein Kartell?
+//3 einen Konzern?
+//4 eine Arbeitsgemeinschaft?
+//Hinweis: Auf eine wirtschaftliche Verflechtung treffen zwei Sachverhalte zu.
+//Sachverhalte:
+??a) Mehrere Kunden der Datentechnik AG führen gemeinsam einen Großauftrag aus.
+??b) Die Maxi AG, ein Lieferer der Datentechnik AG, hat die Aktienmehrheit an der Mini AG übernommen.
+??c) Die Datentechnik AG vereinbart mit Wettbewerbern einheitliche Verkaufskonditionen.
+??d) Zwei Kunden der Datentechnik AG, die Bauer GmbH und die Streber KG, schließen sich zur Bauer GmbH & Co. KG zusammen.
+??e) Die Paulus AG gründet in Nordrhein-Westfalen mehrere Tochtergesellschaften.
+!!4;3;2;1;3

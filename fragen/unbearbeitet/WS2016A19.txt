@@ -1,0 +1,13 @@
+//Die Datentechnik AG hat mit der Steiner GmbH einen Vertrag geschlossen,
+//der vonseiten der Steiner GmbH wie folgt unterschrieben wurde.
+//Unterschriften: a) Mila Maus b) i. V. Dr. Kai Salz
+//Welche der folgenden Stellungen haben Mila Maus und Dr. Kai Salz
+//in der Steiner GmbH laut ihrer Unterschriften?
+//Stellungen:
+??1 Sekretär/-in
+??2 Prokurist/-in
+??3 Kommanditist/-in
+??4 Geschäftsführer/-in
+??5 Handlungsbevollmächtigte/-r
+??6 Vorstand
+!!4;5

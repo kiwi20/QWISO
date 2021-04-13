@@ -1,0 +1,5 @@
+//Ein Zulieferer der Datentechnik AG hat bislang 720 Teile in 48 Arbeitsstunden hergestellt.
+//Durch den Einsatz eines Fertigungsautomaten können nun 960 Teile in 16 Arbeitsstunden hergestellt werden.
+//Arbeitsproduktivität = Ausbringungsmenge / Arbeitseinsatzmenge
+??Ermitteln Sie, um wie viel Prozent die Arbeitsproduktivität gestiegen ist.
+!!300
