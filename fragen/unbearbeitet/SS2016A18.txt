@@ -1,0 +1,8 @@
+//Die Datentechnik AG verkauft Hardware auf einem vollkommenen Markt.
+//Welche der folgenden Aussagen trifft auf einen vollkommenen Markt zu?
+??1 Der Marktpreis wird ausschließlich von den Nachfragern bestimmt.
+??2 Der Gleichgewichtspreis ist der Preis, bei dem die angebotene Menge gleich der nachgefragten Menge ist.
+??3 Die angebotene Menge ist umso größer, je niedriger der Gleichgewichtspreis ist.
+??4 Die angebotene Menge ist umso geringer, je höher der Gleichgewichtspreis ist.
+??5 Die Marktteilnehmer müssen Preise oberhalb des Gleichgewichtspreises kalkulieren, um am Markt bestehen zu können.
+!!2

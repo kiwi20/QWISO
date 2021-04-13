@@ -1,0 +1,11 @@
+//Für das aktuelle Smartphone des Marktführers wird ein Nachfolgemodell für das IV. Quartal angekündigt.
+//Folgende Grafik zur Marktsituation des aktuellen Modells liegt vor.
+//https://www.dropbox.com/s/td8u5o2jiqd3mv7/SS2016A17.PNG?dl=0
+//Welche der folgenden Aussagen können Sie ohne zusätzliche Informationen aus der Grafik ableiten?
+//Im III. Quartal...
+??1 wurden die Werbemaßnahmen erhöht.
+??2 sinkt der Marktpreis.
+??3 wurde das Angebot vergrößert.
+??4 wurde kein Marktgleichgewichtspreis erreicht.
+??5 wirkte sich die höhere Nachfrage nach einem Komplementärprodukt aus.
+!!2

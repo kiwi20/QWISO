@@ -1,0 +1,10 @@
+//Die Pflichten von Auszubildenden sind im Berufsbildungsgesetz (BBiG)
+//und in der Verordnung über die Berufsausbildung geregelt.
+//Welche zwei der folgenden Aufgaben sind Pflichten der Auszubildenden Kathrin Stark?
+??1 Erledigung von betrieblichen Aufgaben, die nicht dem Ausbildungszweck dienen
+??2 Teilnahme an Ausbildungsmaßnahmen, die außerhalb der Ausbildungsstätte stattfinden
+??3 Erstellen eines Ausbildungsplans, mit dem die geforderten Kenntnisse und Fertigkeiten erlangt werden können 
+??4 Teilnahme an Schulungen der Gewerkschaft
+??5 Zahlung von Schadenersatz an den Ausbildenden nach Auflösung des Ausbildungsvertrags in der Probezeit, wenn der Ausbildungsplatz in Folge unbesetzt bleibt
+??6 Teilnahme an der Zwischenprüfung
+!!2;6

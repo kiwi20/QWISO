@@ -1,0 +1,9 @@
+//Ein Mitarbeiter der Datentechnik AG hat gekündigt.
+//Welche zwei der folgenden Unterlagen müssen ihm — ggf. auf Verlangen — ausgehändigt werden?
+??1 Nachweis über Zahlungen zur Berufsgenossenschaft/betrieblichen Unfallversicherung
+??2 Arbeitsvertrag
+??3 Qualifiziertes Arbeitszeugnis
+??4 Zeugniskopien
+??5 Lohnsteuerbescheinigung
+??6 Lebenslauf
+!!3;5

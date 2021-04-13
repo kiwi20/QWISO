@@ -1,0 +1,10 @@
+//Die Datentechnik AG schließt mit der Technik AG einen Vertrag über die
+//Aufrüstung von 500 Steuerungsanlagen zu einem Festpreis.
+//Mit welcher der folgenden Maßnahmen handeln Sie nach dem Minimalprinzip?
+//Minimierung...
+??1 des Risikos einer verspäteten Zahlung der Technik AG durch einen hohen Skonto
+??2 des Risikos verspäteter Fertigstellung des Auftrages durch zusätzliche Zeitarbeitskräfte
+??3 des finanziellen Risikos aus Gewährleistungsansprüchen durch eine Rückstellung
+??4 der Kosten durch Optimierung des Geschäftsprozesses
+??5 der Abhängigkeit von Lieferern durch Bestellung bei mehreren Anbietern
+!!4

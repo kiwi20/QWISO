@@ -1,0 +1,10 @@
+//Die Datentechnik AG hat im Rahmen der Berufsausbildung gegenüber der 
+//Industrie- und Handelskammer (Il-IK) Rechte und Pflichten.
+//Welche der folgenden Aussagen ist zutreffend?
+//Die Datentechnik AG hat...
+??1 das Recht, Auszubildende ohne Zustimmung der IHK auszubilden.
+??2 die Pflicht, jede Fehlzeit der Auszubildenden sofort der IHK zu melden.
+??3 die Pflicht, dem Schlichtungsausschuss der IHK jede Unstimmigkeit mit Auszubildenden mitzuteilen.
+??4 die Pflicht, den betrieblichen Ausbildungsplan von der IHK genehmigen zu lassen.
+??5 das Recht, von der IHK eine Verschiebung des Prüfungstermins zu verlangen, wenn die Auftragslage es erfordert.
+!!4

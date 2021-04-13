@@ -1,0 +1,13 @@
+//In der Jugendvertretung der Datentechnik AG werden im Zusammenhang mit
+//den anstehenden Tarifverhandlungen folgende Arbeitskampfmaßnahmen diskutiert.
+//Arbeitskampfmaßnahmen:
+//1 Wilder Streik
+//2 Warnstreik
+//3 Aussperrung
+//4 Schwerpunktstreik
+//Um welche dieser Arbeitskampfmaßnahmen handelt es sich in den nachstehenden Fällen?
+//Fälle:
+??a) In allen Unternehmungen einer Branche wird die Arbeit auf Betreiben der Gewerkschaft für eine Stunde niedergelegt.
+??b) Die Arbeitsverhältnisse aller Arbeitnehmer bestimmter Betriebe werden während eines Streiks vorübergehend aufgehoben.
+??c) Die Arbeitnehmer einer Unternehmung legen während der Laufzeit des Tarifvertrags ohne Abstimmung mit der Gewerkschaft ihre Arbeit für vier Stunden nieder, um ihre Forderung durchzusetzen.
+!!2;3;1

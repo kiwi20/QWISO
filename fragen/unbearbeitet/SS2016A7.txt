@@ -1,0 +1,10 @@
+//Sie sollen neue Mitarbeiter und Auszubildende der Datentechnik AG über Regelungen
+//nach dem Entgeltfortzahlungsgesetz im Falle einer Arbeitsunfähigkeit informieren.
+//Welche der folgenden Fragen im Zusammenhang mit einer ärztlich festgestellten
+//Arbeitsunfähigkeit von Mitarbeitern müssen Sie mit „ja" beantworten ?
+??1 „Muss ich mehr als ein Jahr in der Datentechnik AG gearbeitet haben, um bei Krankheit einen Anspruch auf Fortzahlung meines Arbeitsentgelts zu haben?"
+??2 „Muss ich eine ärztliche Arbeitsunfähigkeitsbescheinigung vorlegen, wenn die Krankheit länger als drei Kalendertage dauert?"
+??3 „Kann ich mir zur Vorlage einer ärztlichen Bescheinigung zur Arbeitsunfähigkeit sieben Werktage Zeit lassen?"
+??4 „Verliere ich meinen Anspruch auf Entgeltfortzahlung im Krankheitsfall, wenn ich meine Arbeitsunfähigkeit fahrlässig verursacht habe?"
+??5 „Stimmt es, dass Auszubildenden bei Krankheit keine Ausbildungsvergütung gezahlt wird?"
+!!2

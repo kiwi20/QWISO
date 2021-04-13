@@ -1,0 +1,10 @@
+//Der 22-jährige Auszubildende der Datentechnik AG, Steffen Schlau,
+//hat nach bestandener Abschlussprüfung keine Anstellung gefunden.
+//Welche der folgenden Aussagen trifft auf diesen Sachverhalt zu?
+//Ein Anspruch auf Arbeitslosengeld I...
+??1 besteht nicht, da für junge Erwachsene unter 25 Jahre noch Transferleistungen (z. B. Kindergeld) gezahlt werden und daher die Eltern für die Versorgung des Kindes aufkommen müssen.
+??2 besteht nicht, weil Ausbildung keine Arbeit ist und daher auch keine Beiträge zur Arbeitslosenversicherung eingezahlt wurden.
+??3 besteht nicht, solange die Arbeitsagentur Vermittlungsbemühungen unternimmt.
+??4 besteht, weil bereits während einer Ausbildung Beiträge zur Arbeitslosenversicherung geleistet werden.
+??5 besteht nicht, weil ein Ausbildungsvertrag trotz Beitragszahlung einer geringfügig entlohnten Beschäftigung ohne Anspruch auf Sozialversicherungsleistungen entspricht.
+!!4

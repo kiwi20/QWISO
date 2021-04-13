@@ -1,0 +1,9 @@
+//Die Datentechnik AG und deren Arbeitnehmer sind mit Arbeitsverträgen Pflichten eingegangen.
+//In welchem der folgenden Fälle wird in der Datentechnik AG gegen die Pflichten aus dem Arbeitsvertrag verstoßen?
+//Tragen Sie die Ziffer vor dem zutreffenden Fall in das Kästchen ein.
+??1 Ein Mitarbeiter der Datentechnik AG erhält beim Ausscheiden aus der Datentechnik AG ein einfaches Zeugnis.
+??2 Ein Mitarbeiter der Datentechnik AG übt ohne Kenntnis des Arbeitgebers eine Nebentätigkeit im gleichen Geschäftszweig aus.
+??3 Die Datentechnik AG meldet einen neuen Arbeitnehmer drei Tage nach Arbeitsbeginn zur Sozialversicherung an.
+??4 Die Datentechnik AG hat aus betrieblichen Gründen im Monat Mai eine Urlaubssperre verhängt. 
+??5 Die Datentechnik AG schließt aus Kostengründen die Werkskantine.
+!!2

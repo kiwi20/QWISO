@@ -1,0 +1,10 @@
+//Wie alle Unternehmen verfolgt die Datentechnik AG
+//erwerbswirtschaftliche Ziele, u. a. das Ziel der Rentabilität.
+//Welche der folgenden Aussagen trifft auf Rentabilität zu?
+//Rentabilität ist ein Wert, der das Verhältnis von...
+??1 Erträgen zu den Aufwendungen
+??2 Eigenkapital zum Fremdkapital
+??3 erzieltem Gewinn zum Eigenkapital
+??4 Forderungen zu den Verbindlichkeiten
+??5 Anlagevermögen zum Umlaufvermögen angibt.
+!!3

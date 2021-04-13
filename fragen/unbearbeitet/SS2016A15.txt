@@ -1,0 +1,10 @@
+//In einer Fachzeitschrift lesen Sie:
+//"Die horizontale Konzentration am Markt für E-Book-Reader nimmt zu"
+//In welchem der folgenden Fälle liegt eine horizontale Konzentration vor?
+//Ein Hersteller von E-Book-Readern...
+??1 wird von einem Schulbuchverlag gekauft. 
+??2 wird von einem Finanzinvestor gekauft.
+??3 fusioniert mit einem Konzern, der bereits andere Hardware-Produkte herstellt.
+??4 erwirbt ein Fachgeschäft für Bürobedarf.
+??5 erwirbt einen Software-Produzenten, um eigene E-Book-Reader-Programme herzustellen.
+!!3

@@ -1,0 +1,9 @@
+//Der Personalabteilung der Datentechnik AG werden Unfälle gemeldet.
+//Welche zwei der folgenden Unfälle müssen der Berufsgenossenschaft gemeldet werden?
+??1 Ein Mitarbeiter erhielt in seinem Büro an einem defekten Kabel einen schweren Stromschlag und erlitt Verbrennungen.
+??2 Eine Mitarbeiterin verletzte sich ihren Fuß auf dem Parkplatz der Datentechnik AG an einer vorstehenden Bodenplatte.
+??3 Ein Mitarbeiter brach sich im Urlaub beim Skifahren ein Bein.
+??4 Ein Mitarbeiter besuchte auf dem Heimweg von seiner Arbeitsstelle eine Gaststätte. Beim Verlassen des Lokals stürzte er und verletzte sich schwer.
+??5 Ein Auszubildender verunglückte mit seinem Fahrrad auf dem Weg zum Schwimmbad, das er besuchen wollte, weil der Unterricht in der Berufsschule ausfiel.
+??6 Der Geschäftsführer beschädigt auf dem Firmenparkplatz das Fahrzeug eines Mitarbeiters.
+!!1;2

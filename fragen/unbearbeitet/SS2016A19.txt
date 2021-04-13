@@ -1,0 +1,8 @@
+//In einem Arbeitstreffen analysieren Sie verschiedene Marktsituationen. 
+//Welcher der folgenden Indikatoren weist auf einen Käufermarkt hin?
+??1 Lagerbestände werden in kurzer Zeit abgebaut.
+??2 Verkäufer gewähren keine Preisnachlässe.
+??3 Verkäufer bieten kostenlose Zusatzleistungen an.
+??4 Käufer akzeptieren lange Lieferzeiten.
+??5 Verkäuferinsolvenzen sind zurückgegangen.
+!!3

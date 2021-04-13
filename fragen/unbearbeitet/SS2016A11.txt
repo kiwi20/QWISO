@@ -1,0 +1,11 @@
+//Für die Angestellte Lea Peters müssen Beiträge zur Sozialversicherung abgeführt werden.
+//In welcher Zeile (1 bis 5) der folgenden Tabelle ist die Aufteilung der
+//Sozialversicherungsbeiträge zwischen der Datentechnik AG und Frau Peters richtig wiedergegeben?
+//Tragen Sie die Ziffer vor der zutreffenden Zeile in das Kästchen ein.
+//Versicherung			Datentechnik AG		L.Peters
+??Unfallversicherung		100%			-
+??Krankenversicherung		30%			70%
+??Krankenversicherung		50%			50%
+??Rentenversicherung		-			100%
+??Arbeitslosenversicherung	100%			-
+!!1;3

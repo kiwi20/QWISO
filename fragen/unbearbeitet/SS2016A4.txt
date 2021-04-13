@@ -1,0 +1,10 @@
+//In der Datentechnik AG soll eine Stelle befristet für ein Jahr besetzt werden.
+//Welche zwei der folgenden Konsequenzen ergeben sich für das Unternehmen aus der Befristung?
+//Die Datentechnik AG...
+??1 muss den Arbeitsvertrag nicht kündigen, da er nur für ein Jahr gilt.
+??2 muss den Arbeitsvertrag zum Ablauf der Vertragszeit kündigen, da sonst ein unbefristeter Arbeitsvertrag entsteht.
+??3 kann den Arbeitsvertrag vor Ablauf des Jahres nicht kündigen.
+??4 kann den Arbeitsvertrag nicht verlängern.
+??5 kann den Arbeitsvertrag nach dem Jahr für ein weiteres Jahr verlängern.
+??6 ist an keine tariflichen Vereinbarungen gebunden.
+!!1;5
