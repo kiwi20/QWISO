@@ -1,0 +1,10 @@
+//Einem Auszubildenden wird in der Datentechnik AG nach
+//Abschluss der Ausbildung eine Stelle befristet für ein Jahr angeboten.
+//Welche der folgenden Konsequenzen ergibt sich für den Arbeitsvertrag aus der Befristung?
+//Die Datentechnik AG...
+??1 muss den Arbeitsvertrag zum Ablauf der Vertragszeit kündigen, da sonst ein unbefristeter Arbeitsvertrag entsteht.
+??2 darf den Arbeitsvertrag vor Ablauf des Jahres nicht kündigen.
+??3 darf den Arbeitsvertrag nicht verlängern.
+??4 darf den Arbeitsvertrag nach dem Jahr für ein weiteres Jahr befristet verlängern. 
+??5 ist an keine tariflichen Vereinbarungen gebunden.
+!!4

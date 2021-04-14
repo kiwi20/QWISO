@@ -1,0 +1,10 @@
+//Bei der Datentechnik AG werden in Abteilungsleiterbesprechungen viele unterschiedliche Zielsetzungen besprochen.
+//Einige Ziele lassen sich gut miteinander verbinden (komplementäre Ziele).
+//Andere Ziele schließen sich jedoch gegenseitig aus (konkurrierende Ziele).
+//Bei welcher der folgenden Zielpaarungen handelt es sich um konkurrierende Ziele?
+??1 Umsatzsteigerung und Gewinnmaximierung
+??2 Kostenminimierung und Gewinnmaximierung
+??3 Einführung einer Betriebsrente und Reduzierung der Sozialleistungen
+??4 Erhöhung der Produktionsmenge und Vergrößerung der Produktionskapazitäten
+??5 Abbau von Arbeitsplätzen und Outsourcing des Rechnungswesens
+!!3

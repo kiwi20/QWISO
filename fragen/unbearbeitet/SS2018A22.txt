@@ -1,0 +1,8 @@
+//Ein Workshop der Datentechnik AG beschäftigt sich mit dem Thema Globalisierung.
+//Welche der folgenden Aussagen trifft auf deutsche Unternehmen in einer globalisierten Wirtschaft zu?
+??1 Die Produktionskosten können durch Verlagerung der Produktion in Länder mit niedrigeren Löhnen gesenkt werden.
+??2 Da Deutschland ein Niedriglohnland ist, stehen jedem deutschen Unternehmen ausreichend Fachkräfte zur Verfügung.
+??3 Alle deutschen Unternehmen wickeln ihre Geschäfte weltweit in EUR ab.
+??4 Ausländische Fachkräfte haben jederzeit Zugang zum deutschen Arbeitsmarkt und können von jedem Unternehmen sofort eingestellt werden.
+??5 Durch einen Rückgang der Transporte der deutschen Unternehmen sinkt der Preis für Kraftstoffe.
+!!5

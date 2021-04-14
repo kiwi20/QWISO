@@ -1,0 +1,10 @@
+//Sie wollen ein Unternehmen gründen.
+//Für die Startfinanzierung benötigen Sie einen Kredit.
+//In welchem der folgenden Teile des Businessplanes erwartet
+//die Bank Angaben zu Umsatzerlösen und zur Liquidität?
+??1 Unternehmensbeschreibung
+??2 Standortbeschreibung
+??3 Beschreibung der Produkte und Leistungen
+??4 Markt- und Wettbewerbsanalyse
+??5 Finanzplanung
+!!5

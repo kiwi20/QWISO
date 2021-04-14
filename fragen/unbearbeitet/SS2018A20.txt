@@ -1,0 +1,10 @@
+//Für ein auch von der Datentechnik AG vertriebenes Produkt liegt folgende Grafik über die Marktsituation vor:
+//https://www.dropbox.com/s/td8u5o2jiqd3mv7/SS2016A17.PNG?dl=0
+//Welche der folgenden Aussagen können Sie ohne zusätzliche Informationen aus der Grafik ableiten?
+//Im III. Quartal…
+??1 wurden die Werbemaßnahmen eingeschränkt.
+??2 wurde das Angebot vergrößert.
+??3 wurde kein Marktgleichgewichtspreis erreicht.
+??4 ist die Nachfrage gesunken.
+??5 wirkte sich die höhere Nachfrage nach einem Komplementärprodukt aus
+!!4

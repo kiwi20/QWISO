@@ -1,0 +1,9 @@
+//In der Datentechnik sind folgende Sachverhalte durch
+//betriebliche und tarifliche Vereinbarungen geregelt.
+//Welcher der folgenden Sachverhalte wird durch eine Betriebsvereinbarung geregelt?
+??1 Höhe des Urlaubsgeldes
+??2 Höhe der Ausbildungsvergütung
+??3 Beginn und Ende der täglichen Arbeitszeit
+??4 Anzahl der Urlaubstage
+??5 Höhe der Arbeitsentgelte nach Gehaltsgruppen
+!!3

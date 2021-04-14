@@ -1,0 +1,10 @@
+//Der Geschäftsführer der Datentechnik AG, Andreas Klüngel,
+//will die Potenziale der Mitarbeiter analysieren.
+//Welche der folgenden Aussagen zur Potenzialanalyse ist richtig?
+//Die Potenzialanalyse...
+??1 darf nicht in der Probezeit durchgeführt werden
+??2 muss regelmäßig durchgeführt werden.
+??3 dient zur Erfassung der finanziellen Möglichkeiten der Mitarbeiter.
+??4 darf nur von einem Sachverständigen der Berufsgenossenschaft durchgeführt werden.
+??5 dient zur Erfassung von Stärken und Schwächen der Mitarbeiter.
+!!5

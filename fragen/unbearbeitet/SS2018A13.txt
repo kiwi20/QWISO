@@ -1,0 +1,9 @@
+//Einige Lebensrisiken werden über die deutsche Sozialversicherung finanziell abgesichert.
+//Welche zwei der folgenden Risiken werden von einer gesetzlichen Sozialversicherung gedeckt?
+??1 Privatinsolvenz
+??2 Diebstahl
+??3 Wegeunfall
+??4 Arbeitslosigkeit
+??5 Anklage
+??6 Unfallschaden des PKW
+!!3;4

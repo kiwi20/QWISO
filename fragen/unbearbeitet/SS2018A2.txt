@@ -1,0 +1,15 @@
+//Die Datentechnik AG möchte ihre Belegschaft durch Einstellungen vergrößern. Bei der Einstellung von Personal ist das 
+//„Allgemeine Gleichbehandlungsgesetz (AGG)" zu berücksichtigten.
+//_________________________________________________________________________________________________________________
+//§ 1 Ziel des Gesetzes
+//Ziel des Gesetzes ist es, Benachteiligungen aus Gründen der Rasse oder der ethnischen Herkunft, des Geschlechts, der 
+//Religion oder Weltanschauung, einer Behinderung, des Alters oder der sexuellen Identität zu verhindern oder zu beseitigen.
+//_________________________________________________________________________________________________________________
+//Welche der folgenden zwei Sachverhalte entsprechen dem „Allgemeinen Gleichbehandlungsgesetz ?
+??1 Bei der Auswahl des Personals werden Frauen bevorzugt.
+??2 In der Stellenanzeige wird darauf hingewiesen, dass Bewerber aus Großbritannien bevorzugt werden.
+??3 Vor der Sichtung der Bewerbungsunterlagen werden Name und Alter der Bewerberinnen und Bewerber unkenntlich gemacht.
+??4 Bei der Auswahl des Personals werden ausschließlich die Qualifikationen der Bewerberinnen und Bewerber als Auswahlkriterium zugrunde gelegt.
+??5 Bei der Auswahl des Personals werden Bewerberinnen und Bewerber mit Behinderungen bevorzugt.
+??6 In den Stellenanzeigen ist folgender Hinweis aufgenommen: „Wir sind ein junges, dynamisches Team, deshalb werden nur Bewerber berücksichtigt, die unter 35 Jahre alt sind.“
+!!3;4

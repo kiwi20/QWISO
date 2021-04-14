@@ -1,0 +1,12 @@
+//Für die Angestellte Marina Haus müssen 
+//Beiträge zur Sozialversicherung abgeführt werden.
+??In welcher Zeile (1 bis 5) der folgenden Tabelle
+??ist die Aufteilung der Sozialversicherungsbeiträge
+??zwischen der Datentechnik AG und Frau Haus richtig wiedergegeben?
+//	Versicherung 		Datentechnik AG 	Frau Haus
+//1 Pflegeversicherung	 	100 %			-
+//2 Krankenversicherung 	30 % 			70 %
+//3 Arbeitslosenversicherung	70 % 			30 %
+//4 Rentenversicherung		-			100 %
+//5 Unfallversicherung		100 %			-
+!!5

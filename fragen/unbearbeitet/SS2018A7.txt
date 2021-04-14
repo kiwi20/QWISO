@@ -1,0 +1,31 @@
+//In der Datentechnik AG soll zum ersten Mal ein Betriebsrat gewählt werden.
+//Derzeit sind in der Datentechnik AG länger als sechs Monate beschäftigt:
+//35 Kaufmännische Mitarbeiter (alle volljährig)
+//85 Technische M'tarbeiter (3 minderjährig, 82 volljährig)
+//2 Auszubildende (1 minderjährig, 1 volljährig unter 25 Jahre)
+//Ermitteln Sie anhand des abgebildeten Gesetzesauszuges aus dem Betriebsverfassungsgesetz…
+??a) die Anzahl der Personen, die dem Betriebsrat höchstens angehören können.
+??b) die Anzahl der wahlberechtigten Arbeitnehmer.
+//Tragen Sie die Anzahl der Betriebsratsmitglieder und der wahlberechtigten Arbeitnehmer ein.
+//___________________________________________________________________________________________
+//§ 7 Wahlberechtigung
+//Wahlberechtigt sind alle Arbeitnehmer des Betriebs, die das 18. Lebensjahr vollendet haben.
+//Werden Arbeitnehmer eines anderen Arbeitgebers zur Arbeitsleistung überlassen, so sind diese wahlberechtigt, wenn sie 
+//länger als drei Monate im Betrieb eingesetzt werden.
+//§ 8 Wählbarkeit
+//(1) Wählbar sind alle Wahlberechtigten, die sechs Monate dem Betrieb angehören oder als in Heimarbeit Beschäftigte in der 
+//Hauptsache für den Betrieb gearbeitet haben.
+//Auf diese sechsmonatige Betriebszugehörigkeit werden Zeiten angerechnet, in denen der Arbeitnehmer unmittelbar vorher 
+//einem anderen Betrieb desselben Unternehmens oder Konzerns (§ 18 Abs. 1 des Aktiengesetzes) angehört hat. 
+//Nicht wählbar ist, wer infolge strafgerichtlicher Verurteilung die Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, nicht besitzt.
+//§ 9 Zahl der Betriebsratsmitglieder 
+//Der Betriebsrat besteht in Betrieben mit in der Regel
+//5 bis 20 wahlberechtigten Arbeitnehmern aus einer Person,
+//21 bis 50 wahlberechtigten Arbeitnehmern aus 3 Mitgliedern,
+//51 wahlberechtigten Arbeitnehmern bis 100 Arbeitnehmern aus 5 Mitgliedern,
+//101 bis 200 Arbeitnehmern aus 7 Mitgliedern,
+//201 bis 400 Arbeitnehmern aus 9 Mitgliedern,
+//401 bis 700 Arbeitnehmern aus 1 1 Mitgliedern,
+//701 bis 1 .000 Arbeitnehmern aus 13 Mitgliedern
+//____________________________________________________________________________________________
+!!7;118

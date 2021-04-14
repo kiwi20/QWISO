@@ -1,0 +1,10 @@
+//Private Versicherungen werden zusätzlich zur gesetzlichen Sozialversicherung 
+//oder anstatt der gesetzlichen Sozialversicherung abgeschlossen.
+//Welche der folgenden Aussagen trifft auf die private Krankenversicherung zu?
+//Die private Krankenversicherung...
+??1 ist für Arbeitnehmer gesetzlich vorgeschrieben, deren Gehalt oberhalb einer Bemessungsgrenze liegt.
+??2 muss laut Gesetz vom Arbeitgeber für die Mitarbeiter abgeschlossen und bezahlt werden.
+??3 zahlt die Versicherungsleistung in vielen Fällen erst nach Vertragsablauf an den Versicherungsnehmer aus.
+??4 kann von Arbeitnehmern mit einem Gehalt oberhalb der Versicherungspflichtgrenze anstatt der entsprechenden gesetzlichen Versicherung abgeschlossen werden.
+??5 ist für Arbeitnehmer mit langen Anfahrtswegen zur Arbeit gesetzlich vorgeschrieben.
+!!4

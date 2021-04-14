@@ -1,0 +1,11 @@
+//Die Datentechnik AG hat mit der Mathematisch-technischen Softwareentwicklerin
+//Melanie Müller einen Einzelarbeitsvertrag geschlossen. 
+//Im Arbeitsvertrag wurde keine Regelung über den Urlaubsanspruch von Frau Müller getroffen.
+//Die Datentechnik AG ist nicht tarifgebunden.
+//Welche der folgenden Aussagen über den Urlaubsanspruch von Frau Müller trifft zu?
+??1 Der Arbeitsvertrag ist nichtig
+??2 Der Mindesturlaubsanspruch gemäß Bundesurlaubsgesetz beträgt 24 Werktage.
+??3 Der Urlaubsanspruch muss zwischen Frau Graf und der Datentechnik AG jedes Jahr neu verhandelt werden.
+??4 Der Arbeitsvertrag ist nur gültig, wenn Frau Graf mindestens 30 Werktage Urlaub gewährt werden. 
+??5 Es gilt der durchschnittliche Urlaubsanspruch der Tarifverträge der Branche.
+!!2

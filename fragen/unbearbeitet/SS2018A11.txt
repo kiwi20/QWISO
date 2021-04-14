@@ -1,0 +1,10 @@
+//Die 22-jährige Mitarbeiterin der Datentechnik AG, Mara Beer,
+//wird nach Ausbildung und einem befristeten Arbeitsvertrag von einem Jahr arbeitslos.
+//Welche der folgenden Aussagen trifft auf diesen Sachverhalt zu?
+//Frau Beer…
+??1 kann kein Arbeitslosengeld beziehen, da für junge Erwachsene unter 25 Jahre noch Transferleistungen (z. B. Kindergeld) gezahlt werden und daher die Eltern für die Versorgung des Kindes aufkommen müssen.
+??2 hat einen Anspruch auf Arbeitslosengeld l, weil bereits während einer Ausbildung und in der befristeten Beschäftigung Beiträge zur Arbeitslosenversicherung geleistet wurden.
+??3 kann wählen, ob sie Arbeitslosengeld I oder Arbeitslosengeld II beziehen möchte.
+??4 muss zunächst Arbeitslosengeld Il beantragen, solange die Vermittlungsbemühungen der Arbeitsagentur erfolglos bleiben. 
+??5 kann maximal 511,00 EUR Arbeitslosengeld I beantragen, weil sie nur ein Jahr beschäftigt war.
+!!2

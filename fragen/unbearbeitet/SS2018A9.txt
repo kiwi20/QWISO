@@ -1,0 +1,10 @@
+//Die Datentechnik AG prüft verschiedene Möglichkeiten zur
+//Erhöhung der Flexibilität und Verbesserung der Wettbewerbsfähigkeit.
+//Welche der folgenden Maßnahmen kann die Datentechnik AG 
+//ohne Beteiligung des Betriebsrates umsetzen?
+??1 Stilllegung einiger Produktionszweige und entsprechende Reduzierung der Belegschaft 
+??2 Bessere Auslastung der Maschinen durch flexiblere Arbeitszeitregelungen
+??3 Betriebsbedingte Kündigungen
+??4 Einführung von Schichtarbeit
+??5 Gehaltserhöhung des Geschäftsführers
+!!5

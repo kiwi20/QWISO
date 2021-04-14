@@ -1,0 +1,11 @@
+//Die Mitarbeiterin Susi Sauer, seit 16 Jahren im Betrieb,
+//hat sich für eine Stelle in der Vertriebsabteilung beworben.
+//Um ihre Chancen einschätzen zu können,
+//möchte sie Einsicht in ihre Personalakte nehmen.
+//Welche der folgenden Entscheidungen der Personalleiterin ist korrekt?
+??1 Sie will Frau Sauer nur dann Einsicht in die Personalakte gewähren, wenn Frau Sauer ein begründetes Interesse nachweist.
+??2 Sie will Frau Sauer die Einsicht in die Personalakte verweigern, da Arbeitnehmer hierauf grundsätzlich keinen Anspruch haben.
+??3 Frau Sauer muss ihre Bitte über den Betriebsrat vortragen. Die Einsicht in die Personalakte darf ihr nur im Beisein eines Vertreters des Betriebsrates gewährt werden.
+??4 Sie gewährt Frau Sauer keine Einsicht in die Personalakte, da dieses Recht nur dem Geschäftsführer zusteht. 
+??5 Sie gewährt Frau Sauer Einsicht in die Personalakte, da sie das Recht dazu hat.
+!!5

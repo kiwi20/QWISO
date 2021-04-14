@@ -1,0 +1,12 @@
+//Zur Datentechnik AG liegen folgende Daten vor:
+//IT-DienstIeister 
+//57 % Marktanteil in der Region
+//52 Mitarbeiter
+//545.000 EUR Gewinn im Jahr 2017
+//Welche der folgenden Angaben trifft auf Datentechnik AG zu?
+??1 Großunternehmen
+??2 Monopolist
+??3 Unternehmen des primären Sektors
+??4 Marktführer
+??5 Versorgungsunternehmen
+!!4

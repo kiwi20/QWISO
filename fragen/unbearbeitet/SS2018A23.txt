@@ -1,0 +1,9 @@
+//Die Datentechnik AG erledigt die Softwareentwicklung in weltweiter Arbeitsteilung
+//mit Programmierern in Deutschland, Indien und den USA.
+//Welcher der folgenden Sachverhalte ist die Folge einer weltweiten Arbeitsteilung?
+??1 Die gegenseitige Abhängigkeit der Arbeitnehmer entfällt.
+??2 Der Gesamtprozess der Leistungserstellung wird für den einzelnen Arbeitnehmer transparenter.
+??3 Der organisatorische Aufwand erhöht sich, weil die Arbeitsabläufe aufeinander abgestimmt werden müssen.
+??4 Die Arbeit wird abwechslungsreicher für die Arbeitnehmer. 
+??5 Der Kommunikationsaufwand wird reduziert
+!!3

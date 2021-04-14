@@ -1,0 +1,14 @@
+//Die Datentechnik AG beobachtet die Zusammenarbeit von Unternehmen in ihrem wirtschaftlichen Umfeld.
+//Die jeweilige Art der Zusammenarbeit ist an bestimmten Sachverhalten erkennbar.
+//Ordnen Sie die folgenden Formen der Zusammenarbeit den nachstehenden Sachverhalten zu
+//Formen der Zusammenarbeit:
+//1 Fusion
+//2 Kartell
+//3 Konzern
+//4 Arbeitsgemeinschaft
+//Sachverhalte:
+??a) Mehrere Unternehmen führen gemeinsam einen Großauftrag aus.
+??b) Die DCT AG hat die Aktienmehrheit an der Tuck AG übernommen.
+??c) Die Datentechnik AG vereinbart mit Wettbewerbern einheitliche Verkaufskonditionen.
+??d) Zwei Kunden der Datentechnik AG, die Schlosser GmbH und die Schneider KG, schließen sich zur Schneider GmbH & Co. KG zusammen.
+!!4;3;2;1
