@@ -1,0 +1,8 @@
+//Die Datentechnik AG überträgt der neuen Filialleiterin Leonie Breuer Prokura
+//Welche der folgenden Aussagen trifft auf die Prokura zu?
+??1 Die Erteilung der Prokura wird in das Handelsregister eingetragen.
+??2 Die Prokuristin unterzeichnet Geschäftsbriefe mit i. V. Leonie Breuer.
+??3 Der Prokurist kann das Unternehmen veräußern. 
+??4 Der Prokurist unterschreibt die jährliche Bilanz.
+??5 Der Prokurist kann ohne besondere Vollmacht Grundstücke verkaufen.
+!!1

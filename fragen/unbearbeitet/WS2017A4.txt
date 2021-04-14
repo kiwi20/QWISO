@@ -1,0 +1,4 @@
+//Die neue Mitarbeiterin der Datentechnik AG ist
+//erstmalig erkrankt und langfristig arbeitsunfähig.
+??Wie viele Wochen muss die Datentechnik AG den Lohn gemäß dem Entgeltfortzahlungsgesetz weiterzahlen?
+!!6

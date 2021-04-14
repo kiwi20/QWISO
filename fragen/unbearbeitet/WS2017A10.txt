@@ -1,0 +1,16 @@
+//Die Auszubildende Daniela Dank möchte wissen, welche Risiken von
+//der gesetzlichen Sozialversicherung gedeckt werden.
+//Ordnen Sie die folgenden Fälle den nachstehenden Sozialversicherungszweigen zu.
+//Sozialversicherungszweige:
+//a) Rentenversicherung
+//b) Krankenversicherung
+//c) Arbeitslosenversicherung
+//d) Pflegeversicherung
+//e) Gesetzliche Unfallversicherung
+//Fälle:
+??1 Die Mitarbeiterin Hanna Klein rutscht im Lager aus und verstaucht sich den Fuß.
+??2 Der Mitarbeiter Peter Wachs geht wegen einer Grippeerkrankung zu seinem Arzt.
+??3 Dem Mitarbeiter Harald Kurz wurde wegen Auftragsmangel zum 1 . Juli 201 7 gekündigt.
+??4 Die Assistentin der Geschäftsleitung scheidet zum 1 . Juli 201 7 mit Vollendung des 65. Lebensjahres aus dem Berufsleben aus.
+??5 Die an Demenz erkrankte Großmutter der Ursula Breinig benötigt eine häusliche Pflegekraft.
+!!e;b;c;a;d

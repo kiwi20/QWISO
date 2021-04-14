@@ -1,0 +1,10 @@
+//Kunden der Datentechnik AG sind sowohl öffentlich-rechtliche Unternehmen,
+//die nach dem Kostendeckungsprinzip arbeiten, als 
+//auch erwerbswirtschaftliche Unternehmen, die gewinnorientiert arbeiten.
+//Welches der folgenden Unternehmen arbeitet nach dem Kostendeckungsprinzip?
+??1 SAP AG
+??2 Microsoft GmbH
+??3 Stadtwerke Aachen
+??4 Mayersche Buchhanldung GmbH 
+??5 Adobe Systems GmbH
+!!3

@@ -1,0 +1,10 @@
+//Sammy Singer und Gina Grüner, die mehrere Jahre in der Datentechnik AG
+//beschäftigt waren, wollen sich selbstständig machen.
+//Die finanzierende Bank erwartet von den Existenzgründern die Vorlage eines Businessplans.
+//Welche der folgenden Aussagen über einen Businessplan trifft zu?
+??1 Im Businessplan werden die strategischen Ziele der geplanten Unternehmung festgelegt.
+??2 Der Businessplan wird von der IHK des Kammerbezirks ausgestellt, in dem das Unternehmen gegründet wird.
+??3 Der Businessplan wird im Handelsregister hinterlegt.
+??4 Ein Businessplan muss nur bei der Gründung von Kapitalgesellschaften erstellt werden.
+??5 Ein Businessplan ist nur bei der Aufnahme von Darlehen notwendig.
+!!1

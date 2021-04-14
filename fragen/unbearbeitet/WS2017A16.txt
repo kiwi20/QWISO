@@ -1,0 +1,10 @@
+//Die Datentechnik AG will ein Tochterunternehmen in der Rechtsform
+//einer GmbH mit vorerst zehn Mitarbeitern gründen.
+//Welche der folgenden Vorschriften sind dabei zu beachten?
+??1 Als Firma muss eine Sachfirma gewählt werden.
+??2 Die Gründung kann allein durch die MATSE AG erfolgen.
+??3 Das Stammkapital muss mindestens 25.000 EUR betragen.
+??4 Es muss ein Aufsichtsrat bestellt werden.
+??5 Die MATSE AG haftet solidarisch für das Tochterunternehmen. 
+??6 Die Gründung bedarf der Genehmigung des Kartellamtes.
+!!2;3

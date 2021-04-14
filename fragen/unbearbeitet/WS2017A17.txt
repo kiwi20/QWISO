@@ -1,0 +1,11 @@
+//Die unten abgebildete Grafik zeigt die Marktsituation
+//auf dem Markt für ein von der Datentechnik AG vertriebenes OnlineBezahlsystem.
+//https://www.dropbox.com/s/y29s4hhdlcz2lo5/WS2017A17.PNG?dl=0
+//Welche der folgenden Aussagen können aus der Grafik abgeleitet werden?
+??1 Bei einem Preis von 250 EUR beträgt der Angebotsüberhang 400 Stück.
+??2 Bei einem Preis von 250 EUR beträgt der Nachfrageüberhang 400 Stück.
+??3 Bei einem Preis von 1 50 EUR beträgt der Angebotsüberhang 200 Stück
+??4 Bei einem Preis von 1 50 EUR beträgt der Nachfrageüberhang 200 Stück.
+??5 Der Umsatz zum Gleichgewichtspreis beträgt 100.000 EUR.
+??6 Der Absatz zum Gleichgewichtspreis beträgt 1 .000 Stück.
+!!1;5

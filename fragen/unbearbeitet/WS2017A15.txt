@@ -1,0 +1,6 @@
+//Für die Datentechnik AG liegen zum Geschäftsjahr 2016 folgende Daten vor:
+//Eigenkapital:765.000 EUR
+//Gewinn: 55.000 EUR
+??Ermitteln Sie die Eigenkapitalrentabilität.
+??Runden Sie das Ergebnis gegebenenfalls kaufmännisch auf eine Stelle nach dem Komma.
+!!7.2

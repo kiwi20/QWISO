@@ -1,0 +1,14 @@
+//Die Datentechnik AG hat viele Kunden aus unterschiedlichen Wirtschaftssektoren.
+//Ordnen Sie die folgenden Unternehmen den danebenstehenden Wirtschaftssektoren zu.
+//Wirtschaftssektoren:
+//a) Primärer Sektor
+//b) Sekundärer Sektor
+//c) Tertiärer Sektor
+//Unternehmen:
+??1 Meier GmbH, Viehzuchtbetrieb
+??2 Stadtwerke Aachen, Energie- und Wasserversorgung
+??3 IT Haus GmbH
+??4 Rechtsanwälte Schneider und Schmitz
+??5 Hoch & Breit AG, Bau von Halbleiterelementen
+??6 Reiter KG, Abbau und Verkauf von Kies und Sand
+!!a;b;c;c;b;a

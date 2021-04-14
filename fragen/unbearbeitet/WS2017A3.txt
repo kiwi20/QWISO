@@ -1,0 +1,10 @@
+//Die Datentechnik AG schließt mit der Bewerberin einen unbefristeten
+//Arbeitsvertrag auf der Grundlage des aktuellen Tarifvertrages.
+//Die Datentechnik AG ist an einen Tarifvertrag gebunden.
+//Welche der folgenden Aussagen trifft auf einen Tarifvertrag zu?
+??1 Im Arbeitsvertrag darf für die Einarbeitungsphase ein Entgelt festgelegt werden, dass unter dem Entgelt im Tarifvertrag liegt.
+??2 Der Tarifvertrag muss vom Bundesministerium für Arbeit und Soziales bestätigt werden.
+??3 Der Tarifvertrag kommt durch freie Vereinbarung der Tarifvertragspartner zustande. 
+??4 Der Tarifvertrag darf von keinem Vertragspartner ordentlich gekündigt werden.
+??5 Die tarifvertraglichen Regelungen dürfen nur auf gewerkschaftlich organisierte Arbeitnehmer der Datentechnik AG angewendet werden.
+!!3

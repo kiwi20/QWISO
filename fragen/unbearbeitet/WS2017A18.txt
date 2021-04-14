@@ -1,0 +1,8 @@
+//In einem Arbeitstreffen analysieren Sie verschiedene Marktsituationen.
+//Welcher der folgenden Indikatoren weist auf einen Verkäufermarkt hin?
+??1 Auf dem Markt für USB-Sticks gibt es weniger Nachfrager als Anbieter.
+??2 Einem großen Angebot an Laptops steht eine relativ geringe Nachfrage gegenüber.
+??3 In der IT-Branche herrscht starker Wettbewerb.
+??4 Das Angebot an Laptops übersteigt die Nachfrage.
+??5 Die Nachfrage nach USB-Sticks ist größer als das Angebot.
+!!5

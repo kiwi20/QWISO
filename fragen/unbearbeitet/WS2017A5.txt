@@ -1,0 +1,22 @@
+//Im Zuge einer Umstrukturierung will die Datentechnik AG den
+//Arbeitsvertrag mit einem Mitarbeiter zum 31.01.2018 fristgerecht kündigen.
+//Der Mitarbeiter ist 45 Jahre alt und seit dem 1. Februar 2011 bei der Datentechnik AG beschäftigt.
+//____________________________________________________________________________
+//Auszug aus dem Bürgerlichen Gesetzbuch (BGB)
+//§ 622 Kündigungsfristen bei Arbeitsverhältnissen
+//	(1)Das Arbeitsverhältnis eines Arbeiters oder eines Angestellten (Arbeitnehmers)
+//		kann mit einer Frist von vier Wochen zum 
+//		Fünfzehnten oder zum Ende eines Kalendermonats gekündigt werden.
+//	(2)Für eine Kündigung durch den Arbeitgeber beträgt die Kündigungsfrist,
+//		wenn das Arbeitsverhältnis in dem Betrieb oder Unternehmen
+//			1 zwei Jahre bestanden hat, einen Monat zum Ende eines Kalendermonats,
+//			2 fünf Jahre bestanden hat, zwei Monate zum Ende eines Kalendermonats,
+//			3 acht Jahre bestanden hat, drei Monate zum Ende eines Kalendermonats,
+//			4 zehn Jahre bestanden hat, vier Monate zum Ende eines Kalendermonats,
+//			5 zwölf Jahre bestanden hat, fünf Monate zum Ende eines Kalendermonats,
+//			6 15 Jahre bestanden hat, sechs Monate zum Ende eines Kalendermonats,
+//			7 20 Jahre bestanden hat, sieben Monate zum Ende eines Kalendermonats.
+//____________________________________________________________________________
+??Ermitteln Sie das Datum, an dem die Kündigung zum 31. Januar 2018
+??dem Mitarbeiter spätestens zugegangen sein muss, damit die Kündigung wirksam ist.
+!!30.11.2017

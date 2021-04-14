@@ -1,0 +1,8 @@
+//Die Datentechnik AG ist gesetzlich verpflichtet, für die Mitarbeiter Einkommensteuer abzuführen.
+//Welche der folgenden Aussagen trifft auf die Einkommensteuer zu?
+??1 Die Einkommensteuer steht ausschließlich dem Bund zu.
+??2 Verheiratete Mitarbeiter können die Steuerklasse III, IV oder V haben.
+??3 De Einkommenssteuersätze steigen linear zum Einkommen.
+??4 Die Einkommensteuer wird unabhängig vom Familienstand berechnet.
+??5 Die Einkommensteuersätze sind in jedem Bundesland unterschiedlich.
+!!2

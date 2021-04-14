@@ -1,0 +1,8 @@
+//Die Datentechnik AG handelt mit Waren, die in weltweiter Arbeitsteilung hergestellt werden.
+//Welche der folgenden Aussagen trifft auf die weltweite Arbeitsteilung zu?
+??1 Durch die weltweite Arbeitsteilung werden in allen Ländern gleich hohe soziale und ökologische Standards garantiert.
+??2 Durch die weltweite Arbeitsteilung nimmt die Menge der transportierten Waren stetig zu.
+??3 Die Umweltbelastung durch den Transport der Waren nimmt ab.
+??4 Auf dem weltweiten Arbeitsmarkt herrscht eine allgemeine Arbeitnehmerfreizügigkeit.
+??5 Die Produktion erfolgt jeweils in den Ländern mit den ökologisch besten Standards.
+!!2

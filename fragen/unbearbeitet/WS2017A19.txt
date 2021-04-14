@@ -1,0 +1,8 @@
+//Der 16-jährige Auszubildende Manuel Neuer kauft einen Computer im Wert von 2.299,00 EUR.
+//Welche der folgenden Aussagen trifft auf dieses Rechtsgeschäft zu?
+??1 Das Rechtsgeschäft ist nichtig.
+??2 Das Rechtsgeschäft ist anfechtbar.
+??3 Das Rechtsgeschäft ist bis zur Zustimmung der gesetzlichen Vertreter schwebend unwirksam. 
+??4 Das Rechtsgeschäft ist uneingeschränkt gültig 
+??5 Manuel Neuer ist nicht rechtsfähig.
+!!3
