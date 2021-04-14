@@ -1,0 +1,8 @@
+//Die Datentechnik AG verkauft Smartphones über einen Webshop an Privatkunden.
+//Welche der folgenden Aussagen zum Verkauf an Privatkunden trifft zu?
+??1 Hat ein Kunde die Allgemeinen Geschäftsbedingungen akzeptiert, sind auch sogenannte „überraschende und mehrdeutige Klausel“ wirksam.
+??2 Bei einem über das Internet geschlossenen Kaufvertrag besitzt der Verkäufer ein uneingeschränktes Widerrufsrecht und kann die Ware gegen Erstattung des vollen Kaufpreises vom Kunden zurückverlangen.
+??3 Der Kunde kann seine Willenserklärung bei einem über das Internet zustande gekommenen Kaufvertrag nicht mehr widerrufen.
+??4 Der Kunde muss die Ware unmittelbar nach der Annahme auch auf versteckte Mängel hin untersuchen, wenn er seine Gewährleistungsansprüche wahren will
+??5 Der Kunde hat ein vierzehntägiges Widerrufsrecht.
+!!5

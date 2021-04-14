@@ -1,0 +1,10 @@
+//Die Geschäftsleitung der Datentechnik AG erwägt die Fusion mit einem Wettbewerber, der Baum AG,
+//Welche zwei der folgenden Aussagen treffen auf eine Fusion zu?
+//Eine Fusion ...
+??1 kann zu Rationalisierungen und Einsparungen führen.
+??2 kann zu einer breiteren Kapitalbasis und zu günstigeren Finanzierungsmöglichkeiten führen.
+??3 wird von der EU durch Marktbereinigungsprämien zur Stärkung des Wettbewerbs gefördert.
+??4 erfolgt auf Basis eines Kooperationsvertrags, in dem die Zusammenarbeit der Unternehmen geregelt wird.
+??5 kann nur unter Beibehaltung der rechtlichen und wirtschaftlichen Unabhängigkeit der Unternehmen erfolgen
+??6 muss immer vom Bundesministerium für Wirtschaft und Energie genehmigt werden.
+!!1;2

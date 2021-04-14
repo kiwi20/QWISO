@@ -1,0 +1,9 @@
+//In der Datentechnik AG wurden verschiedene Sachverhalte durch betriebliche und tarifliche Vereinbarungen geregelt.
+//Welche zwei der sechs folgenden Sachverhalte können durch eine Betriebsvereinbarung geregelt werden?
+??1 Die Reduzierung der Urlaubstage gemäß Tarifvertrag
+??2 Die Höhe der Arbeitsentgelte nach Gehaltsgruppen
+??3 Aufstellung des Urlaubsplans
+??4 Erhöhung der regelmäßigen täglichen Arbeitszeit auf 12 Stunden
+??5 Einführung einer neuen Pausenregelung für die Mitarbeiter der Datentechnik AG
+??6 Die Dauer der Entgeltfortzahlung im Krankheitsfall
+!!3;5

@@ -1,0 +1,8 @@
+//Die soziale Marktwirtschaft ist in Deutschland ein gesellschafts- und wirtschaftspolitisches Leitbild.
+//Welche der folgenden Aussagen zur sozialen Marktwirtschaft ist zutreffend?
+??1 Durch sozialen Ausgleich und solidarische Hilfe soll eine Chancengerechtigkeit erreicht weiden
+??2 Der Staat fördert Monopole und um einen Leistungswettbewerb zu verhindern.
+??3 Der Staat greift regulierend in Märkte ein, indem er für Waren Mindest- und Höchstpreise sowie Angebotsmengen festsetzt.
+??4 Durch die Gesetzgebung werden alle Wettbewerbshemmnisse vermieden, sodass auf den Märkten eine vollständige Konkurrenz erreicht wird.
+??5 Alke von Insolvenz bedrohten Unternehmen werden auf Antrag durch staatliche Subventionen gestützt.
+!!1

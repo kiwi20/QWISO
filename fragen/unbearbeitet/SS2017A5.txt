@@ -1,0 +1,9 @@
+//Die Datentechnik AG schließt mit der Bewerberin Anja Bertsch einen unbefristeten Arbeitsvertrag. 
+//Die Datentechnik AG ist an einen Tarifvertrag gebunden.
+//Welche der folgenden Aussagen trifft auf einen unbefristeten Arbeitsvertrag zu?
+??1 Es darf keine Probezeit vereinbart werden.
+??2 Es dürfen mehr Urlaubstage vereinbart werden als im Tarifvertrag festgelegt sind.
+??3 Es darf für die Einarbeitungsphase ein Entgelt vereinbart werden, das unter dem Tarifentgelt liegt.
+??4 Es darf von keinem Vertragspartner ordentlich gekündigt werden.
+??5 Es darf keine Teilzeitbeschäftigung vereinbart werden.
+!!2

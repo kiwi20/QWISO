@@ -1,0 +1,8 @@
+//Die Technik GmbH, ein Partnerunternehmen der Datentechnik AG, betreibt in vielerlei Hinsicht Arbeitsteilung.
+//In welchem der folgenden Fälle handelt es sich um innerbetriebliche Arbeitsteilung?
+//Die GmbH...
+??1 stellt drei Informatiker ein, einen für die Programmierung von Apps, einen für die Wartung der Software für Smartphones und einen für die Schulung von Neukunden.
+??2 bezieht Bildschirme eines chinesischen Anbieters.
+??3 bietet Software, aber keine Smartphones an.
+??4 lässt Selfiesticks für einen Kunden mit dem Firmenlogo versehen. führt eine Frauenquote ein
+!!1

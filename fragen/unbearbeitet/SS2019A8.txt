@@ -1,0 +1,8 @@
+//Der 16-jährige Auszubildende Markus Müller kauft einen Fernseher im Wert von XY EUR.
+//Welche der folgenden Aussagen trifft auf dieses Rechtsgeschäft zu?
+??1 Das Rechtsgeschäft ist nichtig.
+??2 Das Rechtsgeschäft ist anfechtbar.
+??3 Herr Meier ist nicht rechtsfähig.
+??4 Das Rechtsgeschäft ist bis zur Zustimmung der gesetzlichen Vertreter schwebend unwirksam.
+??5 Das Rechtsgeschäft ist gültig, wenn Herr Müller den Fernseher in zwölf Monatsraten bezahlt.
+!!4

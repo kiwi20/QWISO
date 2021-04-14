@@ -1,0 +1,8 @@
+//Die Datentechnik AG ist gesetzlich verpflichtet, für die Mitarbeiter Einkommensteuer abzuführen.
+//Welche der folgenden Aussagen trifft auf die Einkommensteuer zu?
+??1 Ledige Mitarbeiter werden der Steuerklasse I zugeordnet.
+??2 Die Einkommensteuer wird unabhängig vom Familienstand berechnet.
+??3 Auszubildende sind nicht einkommensteuerpflichtig.
+??4 Die Einkommensteuersätze sind In jedem Bundesland unterschiedlich.
+??5 Die Einkommensteuer steht ausschließlich den Kommunen zu.
+!!1

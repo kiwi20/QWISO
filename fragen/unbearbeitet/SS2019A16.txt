@@ -1,0 +1,9 @@
+//In der IT Peters GmbH, einer Kundin der Datentechnik AG, haben der Arbeitgeber
+//und der Betriebsrat einen Sozialplan ausgearbeitet.
+//In welchem der folgenden Fälle ist ein Sozialplan auszuarbeiten?
+??1 Aussperrung
+??2 Massenentlassungen
+??3 Kurzarbeit
+??4 Einführung von Sozialmaßnahmen
+??5 Betriebserweiterung
+!!2

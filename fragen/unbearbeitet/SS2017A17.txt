@@ -1,0 +1,9 @@
+//Für ein von der Datentechnik AG vertriebenes Online-Bezahlsystem stellt sich die Marktsituation wie folgt dar:
+//https://www.dropbox.com/s/td8u5o2jiqd3mv7/SS2016A17.PNG?dl=0
+//Welche der folgenden Aussagen kann aus der Grafik abgeleitet werden?
+??1 Wegen verstärkter Werbung stieg die Nachfrage im III. Quartal.
+??2 Mit dem größeren Angebot im II. Quartal wurde eine höhere Nachfrage erzielt.
+??3 Nach dem Nachfragerückgang besteht kein Merktgleichgewicht mehr.
+??4 Abgesetzte Menge und Preise sind zurückgegangen.
+??5 Trotz gesunkenen Preises besteht ein Nachfrageüberhang
+!!4

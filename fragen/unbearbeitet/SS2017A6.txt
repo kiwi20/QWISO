@@ -1,0 +1,8 @@
+//Die Datentechnik AG ist an Vereinbarungen gebunden, die die Sozialpartner miteinander vertraglich vereinbart haben.
+//Welche der folgenden Einrichtungen wird zu den Sozialpartnern gerechnet? 
+??1 Deutsche Sozialversicherung 
+??2 Bundesagentur für Arbeit
+??3 Bundesministerium für Arbeit und Soziales 
+??4 Industrie- und Handelskammern
+??5 Gewerkschaften
+!!5

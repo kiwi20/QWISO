@@ -1,0 +1,12 @@
+//Die Datentechnik AG will eine Stelle neu besetzen.
+//Mit einer Bewerbern soft en Einstellungsgespräch geführt werden.
+//Welche der folgenden Fragen sollten im Bewerbungsgespräch nicht
+//gestellt werden bzw. müssen von der Bewerberin nicht 
+//wahrheitsgemäß beantwortet werden?
+??1 Sind Sie Mitglied einer Gewerkschaft?
+??2 Wie lauten ihre Gehaltsvorstellungen?
+??3 Sind Sie bereit, im Team zu arbeiten?
+??4 Welcher Religionsgemeinschaft gehören Sie an?
+??5 Sind Sie bereit, im Ausland zu arbeiten?
+??6 Welche berufliche Entwicklung haben Sie für sich geplant?
+!!1;4

@@ -1,0 +1,8 @@
+//Ein Mitarbeiter der Datentechnik AG wird in Kürze Vater.
+//Welche der folgenden Aussagen stimmt mit dem Bundeselterngeld- und Elternzeitgesetz (BEEG) überein?
+??1 Elternzeit kann nur dann in Anspruch genommen werden, wenn der Arbeitgeber zustimmt.
+??2 Elternzeit kann nur von Müttern in Anspruch genommen werden.
+??3 Elternzeit kann entweder nur vom Vater oder nur von der Mutter in Anspruch genommen werden.
+??4 Elterngeld wird einheitlich und einkommensunabhängig gewährt.
+??5 Elterngeld ist in der Höhe begrenzt.
+!!5

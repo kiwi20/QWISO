@@ -1,0 +1,8 @@
+//Die Datentechnik AG schließt Kaufverträge mit Geschäftskunden ab.
+//Welche der folgenden Aussagen trifft auf einen Kaufvertrag unter Geschäftsleuten zu?
+??1 Der Käufer muss die Warenlieferung unverzüglich prüfen lind ggf. rügen.
+??2 Verkäufer und Käufer streben allein einen Besitzwechsel an.
+??3 Der Käufer ist auch bei vertragsgerechter Lieferung einer mangelfreien Ware nicht zu deren Abnahme verpflichtet.
+??4 Zum Vertragsschluss ist die Willenserklärung eines Vertragspartners erforderlich.
+??5 Ein Kaufvertrag unter Geschäftsleuten ist kein privatrechtlicher, sondern ein öffentlich-rechtlicher Vertrag.
+!!1

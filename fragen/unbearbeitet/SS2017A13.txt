@@ -1,0 +1,9 @@
+//Die Datentechnik AG verfolgt unterschiedliche Zielsetzungen. Einige Ziele lassen sich gut miteinander verbinden 
+//(komplementäre Ziele). Andere Ziele schließen sich jedoch gegenseitig aus (konkurrierende Ziele).
+//In welcher der folgenden Aussagen konkurrieren die genannten Ziele?
+??1 Steigerung des Umsatzes und Erhöhung des Absatzes
+??2 Reduzierung der Kosten und Erhöhung des Gewinns
+??3 Erhöhung der Produktionsmenge und Vergrößerung der Produktionskapazität
+??4 Abbau von Arbeitsplätzen und Outsourcing des Rechnungswesens
+??5 Einführung einer Betriebsrente und Senkung der Lohnkosten
+!!5

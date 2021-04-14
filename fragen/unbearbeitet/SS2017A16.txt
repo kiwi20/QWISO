@@ -1,0 +1,8 @@
+//Die Datentechnik AG wird mit der Kreuzer OHG fusionieren.
+//Welche der folgenden Aussagen trifft auf die Rechtsform der OHG zu?
+??1 Die Gesellschafter der OHG haften höchstens mit ihren Kapitalanteilen.
+??2 Die OHG ist eine Kapitalgesellschaft.
+??3 Die Haftung der OHG ist auf das Gesellschaftsvermögen beschränkt.
+??4 Die gesetzliche Regelung zur Gewinnverteilung lautet 4 % vorn Kapitalanteil! der Rest nach Köpfen. 
+??5 Das Mindestkapital der OHG beträgt bei Gründung 25.000 EUR.
+!!4

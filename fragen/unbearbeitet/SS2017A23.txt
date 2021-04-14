@@ -1,0 +1,8 @@
+//Die Volkswirtschaft der Bundesrepublik Deutschland profitiert von der Globalisierung.
+//Welche der folgenden Maßnahmen fördert die Globalisierung?
+??1 Erhöhung von Importzöllen zur Absicherung von Gewinnen in der Binnenwirtschaft
+??2 inschränkung des Technologietransfers zur Absicherung des technologischen Vorsprungs
+??3 Subventionierung niedriger Preise zur Bereinigung der Märkte von Mitbewerbern
+??4 Förderung von Investitionen ausländischer Unternehmen im Inland sowie von Investitionen deutscher Unternehmen im Ausland 
+??5 Erhöhung der Produktionstiefe an Industriestandorten weltweit
+!!4

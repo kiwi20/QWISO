@@ -1,0 +1,9 @@
+//Die Datentechnik AG will mit der Systemhaus GmbH fusionieren.
+//Die Systemhaus GmbH verliert ihre wirtschaftliche und rechtliche Selbstständigkeit.
+//Welche der folgenden Aussagen trifft auf eine Fusion zu?
+??1 Eine Fusion führt immer zu Preissenkungen.
+??2 Eine Fusion führt immer zur Sicherung der Arbeitsplätze.
+??3 Die Datentechnik AG möchte ihr Produktportfolio erweitern.
+??4 Durch eine Fusion wird der Wettbewerb gefördert.
+??5 Durch eine Fusion werden alle Standorte gesichert.
+//3

@@ -1,0 +1,10 @@
+//Markus Munter und Lea Lacher, die mehrere Jahre in der Datentechnik AG beschäftigt waren,
+//wollen sich selbstständig machen.
+//Die finanzierende Bank erwartet von den Existenzgründern die Vorlage eines Businessplans.
+//Welche der folgenden Aussagen über einen Businessplan trifft zu?
+??1 Im Businessplan werden die strategischen Ziele festgelegt.
+??2 Ein Businessplan kann nur nach erfolgreicher Gründung des Unternehmens erstellt werden.
+??3 Der Businessplan wird im Handelsregister hinterlegt.
+??4 Ein Businessplan muss nur bei der Gründung von Kapitalgeselschaften erstellt werden.
+??5 Ein Businessplan ist nur bei der Aufnahme von Darlehen notwendig.
+!!1

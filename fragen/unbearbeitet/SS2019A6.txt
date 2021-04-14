@@ -1,0 +1,9 @@
+//Der Staat möchte durch geeignete wirtschaftspolitische Maßnahmen die Kaufkraft
+//der Verbraucher stärken, um die Konjunktur zu beleben.
+//Welche der folgenden Maßnahmen erhöht die Kaufkraft der Verbraucher?
+??1 Die Abschreibungsmöglichkeiten für Unternehmen werden eingeschränkt.
+??2 Die Steuersätze für die Erbschaftssteuer werden erhöht.
+??3 Die Beitragsbemessungsgrenzen in der Sozialversicherung werden erhöht. 
+??4 Die Zuschüsse zur Wohnungsbauförderung werden reduziert.
+??5 Der Staat erhöht den steuerfreien Grundbetrag in der Einkommensteuer.
+!!5

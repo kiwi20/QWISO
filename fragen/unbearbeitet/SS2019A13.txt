@@ -1,0 +1,9 @@
+//Die Datentechnik AG schließt mit der Bewerberin Daniela Meier einen
+//unbefristeten Arbeitsvertrag auf der Grundlage des aktuellen Tarifvertrages.
+//Welche der folgenden Aussagen trifft auf einen Tarifvertrag zu?
+??1 Im Arbeitsvertrag darf für die Einarbeitungsphase ein Entgelt festgelegt werden, das unter dem Entgelt im Tarifvertrag liegt.
+??2 Der Tarifvertrag kommt durch freie Vereinbarung der Tarifvertragspartner zustande.
+??3 Der Tarifvertrag darf von keinem Vertragspartner ordentlich gekündigt werden.
+??4 Der Tarifvertrag muss vom Bundesministerium für Arbeit und Soziales bestätigt werden.
+??5 Die tarifvertraglichen Regelungen dürfen nur auf gewerkschaftlich organisierte Arbeitnehmer der Datentechnik AG angewendet werden.
+!!2

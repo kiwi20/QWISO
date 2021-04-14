@@ -1,0 +1,10 @@
+//Nachdem Sie mehrere Jahre in der Datentechnik AG tätig waren,
+//wollen Sie sich mit einem IT-Dienstleistungsunternehmen selbstständig machen.
+//Welche der folgenden Aussagen trifft auf eine Existenzgründung zu?
+??1 Die Gesellschaftsform z. B. OHG, GmbH, kann vom Unternehmensgründer nicht frei gewählt werden, sondern wird von der 
+??Industrie- und Handelskammer zugewiesen.
+??2 Selbstständige müssen sich nicht gegen Risiken aus Krankheit und Pflegebedürftigkeit absichern.
+??3 Der für eine Finanzierung erforderliche Businessplan muss bei der zuständigen Industrie- und Handelskammer beantragt werden.
+??4 Die Banken, die das neue Geschäft finanzieren sollen, verlangen in der Regel vorn Unternehmensgründer einen Businessplan, der neben den Chancen auch die Risiken des geplanten Geschäfts verdeutlicht.
+??5 Die zuständige industrie- und Handelskammer prüft, ob durch die Neugründung das Marktgleichgewicht gestört wird und verweigert gegebenenfalls ihre Zustimmung zum Betreiben des Unternehmens im Kammerbezirk.
+!!4

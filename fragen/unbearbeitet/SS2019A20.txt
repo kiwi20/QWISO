@@ -1,0 +1,8 @@
+//Im Rahmen der Tarifverhandlungen wird zwischen Lohn- und Gehaltstarif und dem normalerweise
+//längerfristig geltenden Manteltarif unterschieden.
+//Welcher der folgenden Inhalte wird typischerweise in einem lohn- und Gehaltstarif geregelt?
+??1 Kündigungsfristen îl Gehaltssätze für die einzelnen Gehaltsgruppen
+??2 Tägliche und wöchentliche Arbeitszeit
+??3 Mindesturlaubstage
+??4 Arbeitsbefreiung für Prüfertätigkeit bei IHK-Prüfungen
+!!2

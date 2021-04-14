@@ -1,0 +1,9 @@
+//In einem Arbeitstreffen analysiert die Leitung der Datentechnik AG die zukünftige Marktentwicklung.
+//Das Verhaften der Konsumenten hängt von verschiedenen Faktoren ab.
+//Welche der folgenden Aussagen trifft zu?
+??1 Die Nachfrage der Konsumenten ist abhängig von deren Kaufkraft.
+??2 Die Bedürfnisse der Konsumenten entsprechen dem Angebot.
+??3 In der ff-Branche beeinflusst das Konsumverhalten nie das Angebot.
+??4 Eine erhöhte Nachfrage der Konsumenten führt immer zu Preissenkungen. 
+??5 Ein höheres Angebot immer zu Preissteigerungen.
+//1

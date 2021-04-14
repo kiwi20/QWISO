@@ -1,0 +1,14 @@
+//Die Auszubildende Laura Lauter möchte wissen, welche Risiken von der gesetzlichen Sozialversicherung gedeckt werden.
+//Ordnen Sie die folgenden Fälle den nachstehenden Sozialversicherungszweigen zu.
+//1 Der Mitarbeiter Josef Müller geht wegen einer Grippeerkrankung zu seinem Arzt.
+//2 Dem Mitarbeiter Heinz Klein wurde wegen Auftragsmangel zum Juli 2019 gekündigt und er findet im Anschluss keine neue Beschäftigung.
+//3 Die Mitarbeiterin Claudia Peters rutscht auf direktem Weg zur Arbeitsstelle aus und verstaucht sich den Fuß.
+//4 Die Assistentin der Geschäftsleitung scheidet zum 1. juii 2019 mit des 65. Lebensjahres aus dem Berufsleben aus.
+//5 Die an Demenz erkrankte Großmutter der Stefanie Meyer benötigt eine häusliche Pflegekraft.
+//Sozialversicherungszweige:
+??a) Gesetzliche Unfallversicherung
+??b) Krankenversicherung
+??c) Arbeitslosenversicherung
+??d) Rentenversicherung
+??e) Pflegeversicherung
+!!3;1;2;4;5

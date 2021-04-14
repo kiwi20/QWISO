@@ -1,0 +1,10 @@
+//Sie sollen anhand eines Beispiels eine Tarifverhandlung erläutern.
+//Dazu liegen Ihnen Zeitungsartikel mit folgenden Überschriften vor.
+//Ordnen Sie die in den Überschriften genannten Ereignisse in zeitlicher Reihenfolge.
+??a) Nach zähen Verhandlungen 2,5 Prozent Lohnerhöhung
+??b) Urabstimmung: Ab Montag Streik!
+??c) Gewerkschaft kündigt den Gehaltstarifvertrag
+??d) Es kommt zur Schichtung.
+??e) Erste Tarifverhandlungen
+??f) Gewerkschaft erklärt Tarifverhandlungen für gescheitert.
+!!6;4;1;5;2;3

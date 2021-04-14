@@ -1,0 +1,8 @@
+//Die Interessen der Mitarbeiter werden in der Datentechnik AG durch den gewählten Betriebsrat vertreten.
+//In welcher der folgenden Angelegenheiten hat der Betriebsrat laut Betriebsverfassungsgesetz ein Mitbestimmungsrecht?
+??1 Eröffnung einer neuen Filiale
+??2 Einführung eines neuen Warenwirtschaftssystems
+??3 Einführung einer Gleitzeitregelung
+??4 Errichten einer neuen Lagerhalle
+??5 Einstellung eines neuen Geschäftsführers
+!!3

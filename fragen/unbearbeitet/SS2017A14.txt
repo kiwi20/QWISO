@@ -1,0 +1,8 @@
+//Sie sollen für das abgelaufene Geschäftsjahr die Eigenkapitalrentabilität der Datentechnik AG ermitteln.
+//Mit weicher der Formeln wird die Eigenkapitalrentabilität in Prozent berechnet?
+??1 Eigenkapital * 100 / Anlagevermögen
+??2 Eigenkapital * 100 / Gesamtkapital
+??3 Gewinn * 100 / Umsatzerlöse
+??4 Umsatzerlöse * 100 / Eigenkapital
+??5 Gewinn * 100 / Eigenkapital
+!!5

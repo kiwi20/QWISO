@@ -1,0 +1,10 @@
+//Die Datentechnik AG will ein Tochterunternehmen in der Rechtsform
+//einer GmbH mit vorerst zehn Mitarbeitern gründen.
+//Welche der zwei folgenden Vorschriften sind dabei zu beachten?
+??1 Firma muss eine Sachfirma gewährt werden.
+??2 Das Stammkapital muss mindestens 25.000 EUR betragen.
+??3 Ein Aufsichtsrat muss bestellt werden.
+??4 Die Gründung bedarf der Genehmigung des Kartellamtes 
+??5 Die Gründung kann allein durch die Datentechnik AG erfolgen.
+??6 Die Datentechnik AG haftet solidarisch für das Tochterunternehmen.
+//2;5

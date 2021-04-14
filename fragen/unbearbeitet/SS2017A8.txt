@@ -1,0 +1,8 @@
+//Die Interessen der Mitarbeiter werden in der Datentechnik AG durch den gewählten Betriebsrat vertreten.
+//Weiche der folgenden Aussagen über den Betriebsrat trifft zu?
+??1 Ein Betriebsrat muss in jedem Unternehmen gewählt werden, das in das Handelsregister eingetragen wurde.
+??2 Ein Betriebsrat muss sich je zur Hälfte aus weiblichen und männlichen Mitgliedern zusammensetzen.
+??3 Wählbar sind alle Wahlberechtigten, die dem Betrieb mindestens sechs Monate angehören.
+??4 Ein Betriebsrat kann nur mit Zustimmung der Unternehmensleitung gewählt werden.
+??5 Ein Betriebsrat kann seine Arbeit erst aufnehmen, wenn die zuständige Gewerkschaft der Wahl zugestimmt hat.
+!!3

@@ -1,0 +1,9 @@
+//In einem Arbeitstreffen analysieren Sie verschiedene Marktsituationen.
+//Welcher der folgenden Indikatoren weist auf einen Käufermarkt hin?
+//Die Anbieter
+??1 können die hohe Nachfrage nicht vollständig decken.
+??2 gewähren keine Preisnachlässe. 
+??3 bieten gratis Zusatzleistungen an.
+??4 können höhere Preise durchsetzen. 
+??5 führen keinen Preiswettbewerb.
+!!3

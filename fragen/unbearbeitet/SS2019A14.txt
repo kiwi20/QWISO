@@ -1,0 +1,21 @@
+//Im Zuge einer Umstrukturierung die Datentechnik AG den Arbeitsvertrag
+//mit einem Mitarbeiter zum 31. Dezember 2019 fristgerecht kündigen.
+//Der Mitarbeiter ist 39 Jahre alt und seit dem Mai 2010 bei der Datentechnik AG beschäftigt.
+//_________________________________________________________________________________
+//Auszug aus dem Bürgerlichen Gesetzbuch (BGB)
+//§ 622 Kündigungsfristen bei Arbeitsverhältnissen
+//(l) Das Arbeitsverhältnis eines Arbeiters oder eines Angestellten (Arbeitnehmers) kann mit einer Frist von vier Wochen zum 
+//Fünfzehnten oder zum Ende eines Kalendermonats gekündigt werden.
+//(2) Für eine Kündigung durch den Arbeitgeber beträgt die Kündigungsfrist, wenn das
+//Arbeitsverhältnis In dem Betrieb oder Unternehmen
+//1.zwei Jahre bestanden hat, einen Monat zum Ende eines Kalendermonats,
+//2.fünf Jahre bestanden hat zwei Monate zum Ende eines Kalendermonats,
+//3.acht Jahre bestanden hat drei Monate zum Ende eines Kalendermonats,
+//4.zehn Jahre bestanden hat, vier Monate zum Ende eines Kalendermonats,
+//5.zwölf Jahre bestanden hat* fünf Monate zum Ende eines Kalendermonats,
+//6. 15 Jahre bestanden hat, sechs Monate zum Ende eines Kalendermonats,
+//7. 20 Jahre bestanden hat, sieben Monate zum Ende eines Kalendermonats.
+//__________________________________________________________________________________
+??Ermitteln Sie das Datum, an dem die Kündigung zum 31. Dezember 2019 dem Mitarbeiter
+??spätestens zugegangen sein muss, damit die Kündigung wirksam ist.
+!!30.09.2019

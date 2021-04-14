@@ -1,0 +1,8 @@
+//Nach der Abschlussprüfung informieren Sie sich über Möglichkeiten beruflichen Fortbildung.
+//Welches der folgenden Beispiele zur beruflichen Fortbildung trifft zu?
+??1 Berta Blume besucht nach dem Realschulabschluss (MSA) die Berufsfachschule für Kaufmännische Assistenten.
+??2 Die Mitarbeiterin Karina Hut nimmt nach der Ausbildung zur IT-System-Kauffrau an einem Fernlehrgang „Business English" teilt.
+??3 Sie besuchen an der Volkshochschule einen Segelkurs.
+??4 Ein Auszubildender mit Abitur will nach Abschluss der Ausbildung studieren.
+??5 Ein Auszubildender der Datentechnik AG nimmt in einer überbetrieblichen Ausbildungsstätte an einem Lehrgang zum Thema IT-Sicherheit teil.
+!!2

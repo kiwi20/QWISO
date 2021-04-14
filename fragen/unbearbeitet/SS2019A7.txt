@@ -1,0 +1,18 @@
+//Die Datentechnik AG hat der Franker GmbH eine Software verkauft:
+//-Rechnungsbetrag: 	24.800,00 EUR
+//-Rechnungsdatum:	24.10.2016
+//-Zahlungsziel:	14.11.2016
+//-Zahlungsbedingung: 	fällig ohne Abzug
+//-Lieferung am:	21. Oktober 2016
+//Die Franker GmbH hat die Software bisher nicht bezahlt.
+//____________________________________________________________________________
+//§ 195 (BGB) Regelmäßige Verjährungsfrist
+//Die regelmäßige Verjährungsfrist beträgt drei Jahre
+//§ 199 (BGB) Beginn der regelmäßigen Verjährungsfrist und Verjährungshöchstfristen
+//(I) Die regelmäßige Verjährungsfrist beginnt, soweit nicht ein anderer Verjährungsbeginn
+//bestimmt ist, mit dem Schluss des Jahres, in dem 1. der Anspruch entstanden ist und
+//2. der Gläubiger von den der Anspruch begründenden Umständen und der Person des Schuldners
+//Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste.
+//____________________________________________________________________________
+??An welchem Tag verjährt der Anspruch der Datentechnik AG auf die Zahlung der Franker GmbH um 00:00 Uhr?
+!!01.01.2020

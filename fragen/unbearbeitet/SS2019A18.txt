@@ -1,0 +1,9 @@
+//In der Wirtschaftsordnung der Bundesrepublik Deutschland werden die 
+//Arbeitgeber- und die Arbeitnehmerverbände als Sozialpartner bezeichnet.
+//Welches der folgenden Rechte steht den beiden Sozialpartnern zu?
+??1 Festigung der Beitragsbemessungsgrenzen in der Sozialversicherung
+??2 Erlass von Prüfungsordnungen für anerkannte Ausbildungsberufe
+??3 Vorbereitung der Betriebsratswahlen
+??4 Entgeltfortzahlung im Krankheitsfall
+??5 Abschluss von Tarifverträgen
+!!5
