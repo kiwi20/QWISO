@@ -1,0 +1,9 @@
+//Einige Lebensrisiken werden über die gesetzliche Sozialversicherung finanziell abgesichert.
+//Welche der folgenden Risiken werden von der gesetzlichen Sozialversicherung gedeckt?.
+??1 Arbeitswegeunfall
+??2 Pflegebedürftigkeit
+??3 PrivatinsoIvenz
+??4 Mietrechtsprozess
+??5 Diebstahl
+??6 Kündigung
+!!1;2 
