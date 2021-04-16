@@ -1,0 +1,11 @@
+//Die folgende Grafik zeigt einen vereinfachten Wirtschaftskreislauf:
+//https://www.dropbox.com/s/xdjgb8iobvivisd/WS2015A19.PNG?dl=0
+//Welche der mit 01 bis 10 gekennzeichneten Geldströme treffen auf
+//die folgenden Zahlungsvorgänge in der Datentechnik AG zu?
+//Zahlungsvorgänge:
+??a) Die Datentechnik AG zahlt die Gewerbesteuer an das Finanzamt.
+??b) Die Datentechnik AG überweist einen Rechnungsbetrag an einen amerikanischen Lieferanten.
+??c) Ein Mitarbeiter der Datentechnik AG erhält vom Finanzamt eine Steuerrückerstattung.
+??d) Die Datentechnik AG überweist die Löhne an ihre Mitarbeiter,
+??e) Ein schwedischer Kunde überweist den Rechnungsbetrag für gelieferte Hardware.
+!!04;03;01;09;07

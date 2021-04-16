@@ -1,0 +1,9 @@
+//Subsidiarität und Solidarität sind gesellschaftspolitische Prinzipien,
+//die in der Bundesrepublik Deutschtand angewendet werden.
+//Welcher der folgenden Sachverhalte entspricht dem Prinzip der Solidarität?
+??1 Aufgrund von Gleichbehandlungsgrundsätzen streicht der Staat Transferleistungen.
+??2 Die Steuern auf Kapitalerträge werden gesenkt.
+??3 Die bei der Erbschaftssteuer werden erhöht.
+??4 Eine 18-jährige Berufsfachschülerin ist beitragsfrei bei ihren Eltern in der Kranken- und Pflegeversicherung mitversichert.
+??5 Der Staat gestattet Bürgern die über mehr als das Doppelte des durchschnittlichen Haushaltseinkommens verfügen, einen Teil des Einkommens steuerfrei im Ausland zu hinterlegen.
+!!4

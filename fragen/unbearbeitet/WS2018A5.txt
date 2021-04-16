@@ -1,0 +1,8 @@
+//Für die neuen Mitarbeiter soll in den Arbeitsverträgen eine Probezeit von sechs Monaten vereinbart werden.
+//Welche der folgenden Aussagen trifft auf die vereinbarte Probezeit zu?
+??1 1 Der Arbeitgeber kann das Arbeitsverhältnis während der Probezeit nicht kündigen.
+??2 Der Arbeitgeber kann das Arbeitsverhältnis nur aus wichtigem Grund kundigen.
+??3 Während der Probezeit kann nur der Arbeitnehmer das Arbeitsverhältnis kündigen.
+??4 Die Probezeit darf maximal drei Monate betragen.
+??5 Das Arbeitsverhältnis kann während der Probezeit mit einer Frist von zwei Wochen gekündigt werden.
+!!5

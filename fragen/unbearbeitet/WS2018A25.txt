@@ -1,0 +1,8 @@
+//Die Bundesregierung Maßnahmen zur Steigerung der Kaufkraft.
+//Welche der folgenden staatlichen Maßnahmen wirkt sich positiv auf die Kaufkraft aus
+??1 Senkung der Steuerfreibeträge
+??2 Erhöhung des Beitragssatzes zur Rentenversicherung
+??3 Senkung des Beitrages zur Arbeitslosenversicherung
+??4 Erhöhung der Beitragsbemessungsgrenze in der Sozialversicherung
+??5 Steigende Inflationsrate
+!!3

@@ -1,0 +1,13 @@
+//Die Mathematisch-technische Softwareentwicklerin Susann Meier hat sich bei der Datentechnik AG beworben.
+//Sie soll zu einem Vorstellungsgespräch eingeladen werden.
+//Welche der folgenden Fragen dürfen in einem Vorstellungsgespräch nicht gestellt werden
+//bzw. müssen von Frau Meier nicht wahrheitsgemäß beantwortet werden?
+??1 Welche beruflichen Ziele haben Sie?
+??2 Sind Sie bereit, im Team zu arbeiten?
+??3 Gehören Sie einer Gewerkschaft an?
+??4 sind Sie bereit, im Ausland zu arbeiten?
+??5 Sind Sie bereit, gelegentlich an Wochenenden zu arbeiten?
+??6 Welcher Religionsgemeinschaft gehören Sie an?
+??7 Sind Sie schwanger?
+??8 Wie lauten Ihïe Gehaltsvorstellungen?
+!!3;6;7

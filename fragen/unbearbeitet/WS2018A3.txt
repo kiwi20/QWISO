@@ -1,0 +1,13 @@
+//Für die Entwicklung des neuen Geschäftsfeldes Cloud-Dienste plant
+//die Datentechnik AG die Einstellung von Mitarbeitern.
+//In den Arbeitsverträgen der neuen Mitarbeiter soll eine
+//regelmäßige tägliche Arbeitszeit von zehn Stunden vereinbart werden.
+//Die Datentechnik AG arbeitet fünf Tage in der Woche von Montag bis Freitag.
+//Welche der folgenden Aussagen zur regelmäßigen täglichen Arbeitszeit trifft zu?
+//Die Vereinbarung...
+??1 ist zulässig, wenn sie tarifvertraglich vereinbart wurde.
+??2 ist zulässig, wenn der Betriebsrat mit der eine entsprechende Betriebsvereinbarung abschließt.
+??3 ist nicht zulässig, weil laut Arbeitszeitgesetz eine zehnstündige tägliche Arbeitszeit nur in Ausnahmefällen erlaubt ist.
+??4 ist zulässig, weit die tägliche Arbeitszeit keiner gesetzlichen Beschränkung unterliegt.
+??5 ist zulässig, weil in der Datentechnik AG samstags nicht gearbeitet wird.
+!!3

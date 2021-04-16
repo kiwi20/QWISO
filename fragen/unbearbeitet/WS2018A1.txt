@@ -1,0 +1,10 @@
+//Die Datentechnik AG betreut als IV-Dienstleister vor allem klein- und mittelständische Betriebe.
+//Sie sieht großes Marktpotenzial in der Entwicklung eines
+//Angebots von Cloud-Diensten und Onlineshops für ihre Kunden.
+//Welche zwei der folgenden Bezeichnungen treffen auf die Datentechnik AG zu?
+??1 Unternehmen des primären Sektors.
+??2 Unternehmen des tertiären Sektors
+??3 Erwerbswirtschaftlicher Betrieb
+??4 Gemeinwirtschaftlicher Betrieb
+??5 Personengesellschaft
+!!2;3

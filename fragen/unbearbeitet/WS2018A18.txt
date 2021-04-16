@@ -1,0 +1,5 @@
+//Für die Datentechnik AG liegen für das Jahr 2017 folgende Quartalszahlen vor:
+//https://www.dropbox.com/s/kkbv5oia6rgj95s/WS2018A18.PNG?dl=0
+??Berechnen Sie die Umsatzrentabilitåt für die vier Quartale 2011.
+??Geben Sie das Quartal an, in dem die Datentechnik AG die höchste Umsatzrentabilität erzielte.
+!!8;7;9;6;3

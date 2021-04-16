@@ -1,0 +1,13 @@
+//Zu den Lieferanten der Datentechnik AG zählen unter anderem die folgenden Unternehmungen.
+//Ordnen Sie den nachstehenden Aussagen die jeweilige Unternehmung zu.
+//Tragen Sie die Ziffer vor der jeweils zutreffenden Unternehmung in das Kästchen ein.
+//Aussagen
+//a) Nur ein Teil der Gesellschafter haftet unbeschränkt.
+//b) Die Geschäftsanteile könnten an der Börse gehandelt werden.
+//c) Das Stammkapital muss in das Handelsregister eingetragen werden
+//Unternehmungen
+??1 Strom AG, Aachen
+??2 Schramm Medien GmbH, Köln
+??3 Nicole Raub e. K., Hamburg
+??4 Schmitz & Schlau KG, Berlin
+!!b;c;c;a

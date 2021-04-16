@@ -1,0 +1,13 @@
+//Ziel der Wirtschaftspolitik der Bundesrepublik Deutschland ist das gesamtwirtschaftliche Gleichgewicht.
+//Im Stabilitätsgesetz werden vier Ziele genannt deren Zielerreichung an vier Indikatoren gemessen werden.
+//Ordnen Sie die folgenden Ziele des magischen Vierecks den daneben stehenden Indikatoren zu.
+//1 Stabälität des Preisniveaus
+//2 Hoher Beschäftigungsstand
+//3 Außenwirtschaftliches Gleichgewicht
+//4 Stetiges und angemessenes
+//Wirtschaftswachstum Indikatoren
+??a) Zuwachsrate zum realen Bruttoinlandsprodukt
+??b) Arbeitslosenquote
+??c) Preisindex für Lebenshaltung
+??d) Außenbeitrag („Handels- und Dienstleistungsbilanz")
+!!4;2;1;3

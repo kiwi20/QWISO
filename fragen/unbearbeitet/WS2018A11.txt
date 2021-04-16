@@ -1,0 +1,7 @@
+//Der Mathematisch-technische Softwareentwickler Bob Kahn ist seit dem 1 . Mai 2018 bei der Datentechnik AG angestellt. Sein
+//Bruttogehalt beträgt 2.750,00 EUR.
+//Herr Kahn möchte wissen, wie hoch sein Beitrag zur gesetzlichen Krankenversicherung ist.
+//Allgemeiner Beitragssatz: 14,6 %
+//Zusatzbeitrag: 1,0 %
+??Berechnen Sie den Beitrag Herrn Kahns zur gesetzlichen Krankenversicherung.
+!!214.5

@@ -1,0 +1,9 @@
+//Die Arbeitnehmer der Datentechnik AG sind gesetzlich unfallversichert.
+//Welche zwei der folgenden Fälle werden von der gesetzlichen Unfallversicherung abgedeckt?
+??1 Die Mitarbeiterin Dorothea Faust rutscht im Lager aus und verstaucht sich den Fuß.
+??2 Der Mitarbeiter Johannes Schnee ist wegen einer Grippeerkrankung arbeitsunfähig.
+??3 Der Mitarbeiter Tom Trommel stürzt im heimischen Garten und bricht sich ein Bein.
+??4 Die Auszubildende Celina Kreutz rutscht auf dem direkten Weg zur Arbeit aus und zieht sich eine Bänderdehnung zu.
+??5 Das Kind der Mitarbeiterin Marta Maus ist an Windpocken erkrankt und muss zu Hause von der Mutter betreut werden
+??6 Die Mitarbeiterin Petra Grau sucht ihren Augenarzt auf, weil sich ihre Sehkraft verschlechtert hat.
+!!1;4

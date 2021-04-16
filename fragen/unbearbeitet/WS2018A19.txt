@@ -1,0 +1,10 @@
+//Die 16-jährige Auszubildende Marie Müller verfügt über eine
+//monatliche Ausbildungsvergütung von 695 00 EUR.
+//Sie ist leidenschaftliche Gamerin und bestellt bei der Datentechnik AG
+//einen High-End-Gaming-PC zum Preis von 4 999,00 EUR.
+//Welche der folgenden Aussagen zu diesem Rechtsgeschäft trifft zu?
+??1 Mit Beginn der Ausbildung ist Frau Schrader unbeschränkt geschäftsfähig.
+??2 Das Rechtsgeschäft ist bis zur Zustimmung der gesetzlichen Vertreter schwebend unwirksam.
+??3 Das Rechtsgeschäft ist gültig, weit Frau Schrader unbeschränkt rechtsfähig ist.Auszubildende sind generell geschäftsunfähig.
+??4 Rechtsgeschäfte beschränkt Geschäftsfähiger über 1.000 EUR bedürfen der Zustimmung des Familiengerichts.
+!!2

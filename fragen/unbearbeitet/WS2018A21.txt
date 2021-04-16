@@ -1,0 +1,11 @@
+//Die Geschäftsleitung der Datentechnik AG hat dem Abteilungsleiter Paul Pelzer Prokura ertei!t.
+//Welche der folgenden Aussagen treffen auf die Prokura zu?
+//Tragen Sie die Ziffern den zwei zutreffenden Aussagen in die Kästchen ein.
+//Herr Pelzer...
+??1 Muss zukünftig Geschäftsbriefe mit dem Zusatz i. A. unterzeichnen.
+??2 muss ais Prokurist in das Handelsregister eÌ1getragen werden.
+??3 darf das Unternehmen verkaufen.
+??4 muss die Bilanz der Datentechnik K AG unterzeichnen.
+??5 darf Gerichtsprozesse für die Datentechnik AG führen
+??6 darf die Steuererklärung der Datentechnik AG unterschreiben.
+!!2;5

@@ -1,0 +1,10 @@
+//Die Datentechnik AG hat einen großen Kundenstamm. Dieser umfasst private und gewerbliche Kunden.
+//Welche der folgenden Kunden sind juristische Personen?
+//Tragen Sie die Ziffern vor den zwei zutreffenden Kunden in die Kästchen ein.
+??1 Städtische Werke Hamburg GmbH
+??2 Prokurist Marian Munter
+??3 Rechtsanwältin Barbara Salesch
+??4 Wirtschaftsprüfer Heinz-Peter Strauß
+??5 IT Beratung AG
+??6 Fachinformatikerin Chantal Chance
+!!1;5

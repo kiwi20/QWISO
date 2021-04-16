@@ -1,0 +1,9 @@
+//Die Datentechnik AG ist Mitglied des Arbeitgeberverbandes.
+//In welchem der folgenden Bestandteile des Arbeitsvertrages ist die
+//Datentechnik AG an kollektives Arbeitsrecht gebunden?
+??1 Das Arbeitsverhältnis beginnt am 1. August 2018.
+??2 Der Urlaub beträgt nach Tarifvertrag 30 Tage.
+??3 Der Mitarbeiter erhält ein monatliches Bruttogehalt von 2.500,00 EUR.
+??4 Der Mitarbeiter arbeitet im IT-Service.
+??5 Die Datentechnik AG gewährt einen monatlichen Fahrkostenzuschuss von 10000 EUR.
+!!2

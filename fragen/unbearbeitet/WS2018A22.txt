@@ -1,0 +1,9 @@
+//Die Arbeitsleistungen der Datentechnik AG werden von verschiedenen Wirtschaftseinheiten erbracht.
+//welchem der folgenden Fälle handelt es sich um eine betriebliche Arbeitsteilung (Arbeitszerlegung)?
+//Die Datentechnik AG...
+??1 gliedert einen Schritt des Leistungprozesses an die Bertramm GmbH aus.
+??2 lässt von einen Mitarbeiter ein Produkt aus Komponenten zusammenbauen* die von verschiedenen externen Unternehmen hergestellt wurden.
+??3 organisiert mehrere Prozesse als „supply Chain", in denen Lieferanten, Abteilungen der Datentechnik AG und Kunden miteinander vernetzt sind
+??4 eröffnet eine Filiale in Niedersachsen, die in allen Geschäftsfeldern selbstständig operieren soll
+??5 produziert ein Produkt in mehreren Arbeitsschritten, die von mehreren Arbeitskräften ausgeführt werden.
+!!5

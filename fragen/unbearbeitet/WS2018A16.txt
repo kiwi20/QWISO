@@ -1,0 +1,16 @@
+//Die Datentechnik AG analysiert ihr wirtschaftliches Umfeld durch stete Marktbeobachtung.
+//Ordnen Sie die folgenden Unternehmensverbindungen den nachstehenden Sachverhalten zu.
+//Hinweis:
+//Eine der folgenden Unternehmensverbindungen kann zwei Sachverha!ten zugeordnet werden.
+//Unternehmensverbindungen
+//1 Fusion
+//2 Kartell
+//3 Konzern
+//4 Arbeitsgemeinschaft
+//Sachverhalte
+??a) Mehrere Kunden der Datentechnik AG führen gemeinsam einen Großauftrag aus.
+??b) Die Herbert Schön AG, ein Lieferer Datentechnik AG, hat die Mehrheit an der Rosa AG übernommen.
+??c) Die Datentechnik AG vereinbart mit Wettbewerbern einheftliche Verkaufskonditionen.
+??d) Zwei Kunden Datentechnik AG, die Grün KG und die Blau GmbH, schließen sich zur Blau GmbH & Co. KG zusammen.
+??e) Die Herbert Schön AG gründet in Niedersachsen und RheinEand-PfaIz Tochtergesellschaften.
+!!4;3;2;1;3

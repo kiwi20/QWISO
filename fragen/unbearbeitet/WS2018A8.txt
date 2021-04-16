@@ -1,0 +1,8 @@
+//Der Betriebsrat der Datentechnik AG lädt zur vierteljährlichen Betriebsversammlung ein.
+//Welcher der folgenden Personenkreise ist berechtigt, an der Betriebsversammlung teilzunehmen?
+??1 Nur die gewerkschaftlich organisierten Mitarbeiter
+??2 Nur die Betriebsratsmitglieder und die Gewerkschaftsvertreter
+??3 Nur die Voltzeìtmitarbeiter und die Führungskräfte
+??4 Nur die Vollzeitmitarbeiter und die Auszubitdenden
+??5 Alte Arbeitnehmer des Unternehmens
+!!5
